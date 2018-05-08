@@ -1,0 +1,88 @@
+{
+  "locales": [
+    {
+      "slug": "fr",
+      "name": "Français",
+      "home": {
+        "slug": "accueil",
+        "name": "Bienvenue"
+      },
+      "categories": [
+        {
+          "slug": "pour-commencer",
+          "name": "Pour commencer",
+          "pages": [
+            {
+              "slug": "obtenir",
+              "name": "Obtenir une retrobox"
+            },
+            {
+              "slug": "installation",
+              "name": "Installer l'OS"
+            },
+            {
+              "slug": "configuration",
+              "name": "Configurer votre retrobox"
+            }
+          ]
+        },
+        {
+          "slug": "une-categorie",
+          "name": "Catégorie",
+          "pages": [
+            {
+              "slug": "super-page",
+              "name": "Super page"
+            },
+            {
+              "slug": "exellente-page",
+              "name": "Exellente page"
+            },
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "en",
+      "name": "English",
+      "home": {
+        "slug": "home",
+        "name": "Welcome"
+      },
+      "categories": [
+        {
+          "slug": "getting-started",
+          "name": "Getting started",
+          "pages": [
+            {
+              "slug": "get-a-console",
+              "name": "Get a retrobox"
+            },
+            {
+              "slug": "installation",
+              "name": "How to install"
+            },
+            {
+              "slug": "configuration",
+              "name": "Configure your retrobox"
+            }
+          ]
+        },
+        {
+          "slug": "an-categorie",
+          "name": "My categorie",
+          "pages": [
+            {
+              "slug": "one-page",
+              "name": "One page"
+            },
+            {
+              "slug": "another-page",
+              "name": "Another page"
+            },
+          ]
+        }
+      ]
+    }
+  ],
+}
