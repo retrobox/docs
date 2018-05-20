@@ -4,39 +4,57 @@
       "slug": "fr",
       "name": "Français",
       "home": {
-        "slug": "accueil",
+        "slug": "home-fr",
         "name": "Bienvenue"
       },
       "categories": [
+                {
+          "slug": "specifications-techniques",
+          "name": "Spécifications techniques",
+          "pages": [
+            {
+              "slug": "specifications-techniques-fr",
+              "name": "Spécifications techniques"
+            },
+          ]
+        }
         {
-          "slug": "pour-commencer",
+          "slug": "getting-started",
           "name": "Pour commencer",
           "pages": [
             {
-              "slug": "obtenir",
-              "name": "Obtenir une retrobox"
+              "slug": "getting-started-fr",
+              "name": "Getting started"
             },
-            {
-              "slug": "installation",
-              "name": "Installer l'OS"
-            },
-            {
-              "slug": "configuration",
-              "name": "Configurer votre retrobox"
-            }
           ]
         },
         {
-          "slug": "une-categorie",
-          "name": "Catégorie",
+          "slug": "installation-manuelle-fr",
+          "name": "Installation manuelle",
           "pages": [
             {
-              "slug": "super-page",
-              "name": "Super page"
+              "slug": "installation-manuelle-fr",
+              "name": "Installation manuelle"
             },
+          ]
+        }
+        {
+          "slug": "questions-recurrentes",
+          "name": "Questions recurrentes",
+          "pages": [
             {
-              "slug": "exellente-page",
-              "name": "Exellente page"
+              "slug": "questions-recurrentes-fr",
+              "name": "Questions recurrentes"
+            },
+          ]
+        }
+        {
+          "slug": "problemes-recurrents",
+          "name": "Problèmes recurrents",
+          "pages": [
+            {
+              "slug": "problemes-recurrents-fr",
+              "name": "Problèmes recurrents"
             },
           ]
         }
@@ -46,39 +64,57 @@
       "slug": "en",
       "name": "English",
       "home": {
-        "slug": "home",
+        "slug": "home-en",
         "name": "Welcome"
       },
       "categories": [
         {
-          "slug": "getting-started",
-          "name": "Getting started",
+          "slug": "technical-specification",
+          "name": "Technical specification",
           "pages": [
             {
-              "slug": "get-a-console",
-              "name": "Get a retrobox"
+              "slug": "technical-specification-en",
+              "name": "Technical specification"
             },
-            {
-              "slug": "installation",
-              "name": "How to install"
-            },
-            {
-              "slug": "configuration",
-              "name": "Configure your retrobox"
-            }
           ]
         },
         {
-          "slug": "an-categorie",
-          "name": "My categorie",
+          "slug": "getting-started",
+          "name": "Getting Started - with Retropie",
           "pages": [
             {
-              "slug": "one-page",
-              "name": "One page"
+              "slug": "getting-started-en",
+              "name": "Getting Started - with Retropie"
             },
+          ]
+        }
+         {
+          "slug": "manual-installation",
+          "name": "Manual installation - RetroPie",
+          "pages": [
             {
-              "slug": "another-page",
-              "name": "Another page"
+              "slug": "manual-installation-en",
+              "name": "Manual installation - RetroPie"
+            },
+          ]
+        }
+        {
+          "slug": "questions",
+          "name": "Questions",
+          "pages": [
+            {
+              "slug": "questions-en",
+              "name": "Questions"
+            },
+          ]
+        }
+        {
+          "slug": "troubleshouting",
+          "name": "Troubleshouting",
+          "pages": [
+            {
+              "slug": "troubleshouting-en",
+              "name": "Troubleshouting"
             },
           ]
         }
