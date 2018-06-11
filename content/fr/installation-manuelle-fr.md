@@ -1,5 +1,5 @@
-<div align="center" color="#0094D2">
-	<img src="http://imageshack.com/a/img924/3931/4RxNMI.jpg" height="200"/><br>
+<div class="image-header" align="center" color="#0094D2">
+	<img src="http://imageshack.com/a/img923/3638/nUemDp.png" height="200"/>
 </div>
 
 ## Matériels
@@ -121,7 +121,10 @@ en SSH.
 
 14. *gpu_freq=300*
 
-![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_13.png)Faîtes CTRL+C pour copier le code ci-dessus, puis dans putty, faîtes clique droit pour coller
+<div class="flex items-center bg-blue text-white text-sm font-bold px-4 py-3" role="alert">
+  <i class="fas fa-question-circle"></i>
+  <p>Faîtes CTRL+C pour copier le code ci-dessus, puis dans putty, faîtes clique droit pour coller</p>
+</div>
 
 ----------------------------------------------------------------------------------
 

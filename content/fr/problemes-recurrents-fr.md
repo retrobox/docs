@@ -1,5 +1,5 @@
-<div align="center" color="#0094D2">
-	<img src="http://imageshack.com/a/img924/3931/4RxNMI.jpg" height="200"/><br>
+<div class="image-header" align="center" color="#0094D2">
+	<img src="http://imageshack.com/a/img923/3638/nUemDp.png" height="200"/>
 </div>
 
 ## Vous rencontrez des problèmes ? Voici une liste des problèmes récurrents

@@ -1,23 +1,25 @@
-<div align="center" color="#0094D2">
-	<img src="http://imageshack.com/a/img924/3931/4RxNMI.jpg" height="200"/><br>
+<div class="image-header" align="center" color="#0094D2">
+	<img src="http://imageshack.com/a/img923/3638/nUemDp.png" height="200"/>
 </div>
 
-### Adjust settings
+## FAQ
 
-* Yes you can do that ! Just press Start, and navigate with the joystick to change settings. ![image alt text](http://retrobox.happyblocks.info/project/Image/getting-started/RetroPie/image_14.png)![image alt text](http://retrobox.happyblocks.info/project/Image/getting-started/RetroPie/image_15.png)
+### How can I quit a game ?
 
-### FAQ
+Simply hit the joystick and press START at the same time !
 
-* How can I quit a game ?
+### How can I search specially a game ?
 
-		Simply hit the joystick and press START at the same time !
+Simply choose your console and press select button, and here we go !
 
-* How can I search specially a game ?
+### How shutdown properly the console ?
 
-		Simply choose your console and press select button, and here we go !
-
-* How shutdown properly the console ?
-
-		Just press Start and go in "Quit" and hit Power off !
+Just press Start and go in "Quit" and hit Power off !
 
 ![image alt text](http://retrobox.happyblocks.info/project/Image/getting-started/RetroPie/image_16.png)![image alt text](http://retrobox.happyblocks.info/project/Image/getting-started/RetroPie/image_17.png)
+
+### How can I adjust the settings ?
+
+Yes you can do that ! Just press Start, and navigate with the joystick to change settings.
+
+![image alt text](http://retrobox.happyblocks.info/project/Image/getting-started/RetroPie/image_14.png)![image alt text](http://retrobox.happyblocks.info/project/Image/getting-started/RetroPie/image_15.png)
