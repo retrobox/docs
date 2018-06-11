@@ -1,5 +1,5 @@
-<div class="image-header" align="center" color="#0094D2">
-	<img src="http://imageshack.com/a/img923/3638/nUemDp.png" height="200"/>
+<div class="image-header">
+	<img src="http://imageshack.com/a/img923/3638/nUemDp.png"/>
 </div>
 
 ### The project
