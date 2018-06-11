@@ -3,28 +3,28 @@
       "slug": "fr",
       "name": "Français",
       "home": {
-        "slug": "home-fr",
+        "slug": "home",
         "name": "Bienvenue"
       },
       "tree": [{
         "type": "page",
-        "slug": "specifications-techniques-fr",
+        "slug": "technical-specification",
         "name": "Spécifications techniques"
       }, {
         "type": "page",
-        "slug": "getting-started-fr",
+        "slug": "getting-started",
         "name": "Pour commencer"
       }, {
         "type": "page",
-        "slug": "installation-manuelle-fr",
+        "slug": "manual-installation",
         "name": "Installation manuelle"
       }, {
         "type": "page",
-        "slug": "questions-recurrentes-fr",
+        "slug": "questions",
         "name": "Questions recurrentes"
       }, {
         "type": "page",
-        "slug": "problemes-recurrents-fr",
+        "slug": "troubleshouting",
         "name": "Problèmes recurrents"
       }]
     },
@@ -32,23 +32,23 @@
       "slug": "en",
       "name": "English",
       "home": {
-        "slug": "home-en",
+        "slug": "home",
         "name": "Welcome"
       },
       "tree": [{
-        "slug": "technical-specification-en",
+        "slug": "technical-specification",
         "name": "Technical specification"
       }, {
-        "slug": "getting-started-en",
+        "slug": "getting-started",
         "name": "Getting Started"
       }, {
-        "slug": "manual-installation-en",
+        "slug": "manual-installation",
         "name": "Manual installation"
       }, {
-        "slug": "questions-en",
+        "slug": "questions",
         "name": "Questions"
       }, {
-        "slug": "troubleshouting-en",
+        "slug": "troubleshouting",
         "name": "Troubleshouting"
       }]
     }
