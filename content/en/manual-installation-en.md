@@ -1,15 +1,8 @@
-
 <div align="center" color="#0094D2">
-	<img src="https://raw.githubusercontent.com/RetroBox/RetroBox-Artworks/master/retrobox_logo.png" height="200" alt="W" /><br><br>
-    
-    
+	<img src="http://imageshack.com/a/img924/3931/4RxNMI.jpg" height="200"/><br>
 </div>
 
-
-# Installation de RetroPie sur RetroBox
-
-
-## Matériels :
+## Required
 
 * A computer connect to the Internet
 
@@ -27,7 +20,7 @@
 
 * WPA wifi network
 
-## Fichiers nécessaires :
+## Needed files
 
 * RetroPie :[https://retropie.org.uk/download/](https://retropie.org.uk/download/)
 
@@ -37,13 +30,13 @@
 
 * WinSCP : [https://winscp.net/eng/download.php](https://winscp.net/eng/download.php)
 
-## Preface:
+## Preface
 
 * Be patient, it can take time
 
 * If you have any problem contact us! (On our website or by e-mail: @retrobox.)
 
-## On the Computer:
+## On the Computer
 
 * Burn retropie.img on the map sd with etcher.io
 
@@ -54,7 +47,7 @@
 ![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_3.png)
 
 
-## On the television:
+## On the television
 
 * Plug the RetroBox into HDMI on a screen, then start it. (Having plugged in the controller)
 
@@ -73,7 +66,7 @@
 
 * Restart it, using the support of the RetroBox
 
-## Back to the computer:
+## Back to the computer
 
 * Connect in ssh on the IP address of the RetroBox with the Putty software, then, type this:
 
@@ -83,7 +76,7 @@
 
 ![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_11.png)
 
-## Main configuration of the RetroBox:
+## Main configuration of the RetroBox
 
 To be able to use the screen, you have to execute certain commands
 
@@ -173,7 +166,7 @@ Then do CTRL + X to finish editing and press Y to validate.
 
 Once restart the screen and the sound should work, but not the joystick, and the buttons
 
-## Configuration of joystick and buttons:
+## Configuration of joystick and buttons
 
 Installation of "mk_arcade_joystick_rpi":
 
@@ -206,11 +199,10 @@ Installation finished!
 
 ![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_27.png)You do not need a controller anymore
 
-## Conclusion :
+## Conclusion
 
 After successful manual installation of RetroPie, you can now follow this manual [HERE](EN-getting-started-with-retropie) to install games, if you have problems that do not list contact us!
 
-## Issues :
+## Issues
 
 * Asap
-

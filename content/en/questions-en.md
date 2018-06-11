@@ -1,8 +1,12 @@
-### **Adjust settings**
+<div align="center" color="#0094D2">
+	<img src="http://imageshack.com/a/img924/3931/4RxNMI.jpg" height="200"/><br>
+</div>
+
+### Adjust settings
 
 * Yes you can do that ! Just press Start, and navigate with the joystick to change settings. ![image alt text](http://retrobox.happyblocks.info/project/Image/getting-started/RetroPie/image_14.png)![image alt text](http://retrobox.happyblocks.info/project/Image/getting-started/RetroPie/image_15.png)
 
-### **FAQ :**
+### FAQ
 
 * How can I quit a game ?
 
@@ -17,4 +21,3 @@
 		Just press Start and go in "Quit" and hit Power off !
 
 ![image alt text](http://retrobox.happyblocks.info/project/Image/getting-started/RetroPie/image_16.png)![image alt text](http://retrobox.happyblocks.info/project/Image/getting-started/RetroPie/image_17.png)
-

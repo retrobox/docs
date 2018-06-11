@@ -1,10 +1,6 @@
 <div align="center" color="#0094D2">
-	<img src="https://raw.githubusercontent.com/RetroBox/RetroBox-Artworks/master/retrobox_logo.png" height="200" alt="W" /><br><br>
-    
-    
+	<img src="http://imageshack.com/a/img924/3931/4RxNMI.jpg" height="200"/><br>
 </div>
-
-# Getting started with RetroPie and RetroBox 
 
 ## Get a RetroBox
 
@@ -12,7 +8,7 @@ To order a RetroBox along with some cool customization accessories, head to the 
 
 While you wait for your RetroBox to arrive, you can start to prepare every file you will need :
 
- 
+
 
 * If you want install everything (Linux skills needed)
 
@@ -84,7 +80,7 @@ Just go into roms folder and drag and drop your roms !
 
 [https://github.com/retropie/retropie-setup/wiki/Transferring-Roms](https://github.com/retropie/retropie-setup/wiki/Transferring-Roms)
 
-## Conclusion :
+## Conclusion
 
 yay ! You have successfully install RetroPie on the RetroBox, have fun !
 
@@ -92,5 +88,6 @@ yay ! You have successfully install RetroPie on the RetroBox, have fun !
 
 (Crash bandicoot 3 Warped on PS1)
 
-## Other :
+## Other
+
 ASAP

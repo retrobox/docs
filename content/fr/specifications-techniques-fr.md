@@ -1,12 +1,8 @@
 <div align="center" color="#0094D2">
-	<img src="https://raw.githubusercontent.com/RetroBox/RetroBox-Artworks/master/retrobox_logo.png" height="200" alt="W" /><br><br>
-    </div>
+	<img src="http://imageshack.com/a/img924/3931/4RxNMI.jpg" height="200"/><br>
+</div>
 
-# Spécifications matérielles
-
-
-
-## Caractéristiques :
+## Caractéristiques
 
 * **CPU** : 1GHz monocœur CPU (BCM2835)
 
@@ -26,7 +22,7 @@
 
 * **Dimensions**  : 177.15x66.53x30 mm (6.96x2.59x1.18″)
 
-## Schémas / modèle 3D :
+## Schémas / modèle 3D
 
 ![image alt text](http://retrobox.happyblocks.info/project/firstreleasepcb.png)
 
@@ -50,7 +46,7 @@ Boitier 3d : https://github.com/RetroBox/Raspberry-pi-Z-Version/tree/master/3d
 
 Plexiglass version : https://github.com/RetroBox/Raspberry-pi-Z-Version/tree/master/3d
 
-## Listes des composants :
+## Listes des composants
 
 |  Pièce | Quantité |
 |  ------ | ------ |

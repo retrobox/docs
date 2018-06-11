@@ -1,18 +1,14 @@
 <div align="center" color="#0094D2">
-	<img src="https://raw.githubusercontent.com/RetroBox/RetroBox-Artworks/master/retrobox_logo.png" height="200" alt="W" /><br><br>
-    
-    
+	<img src="http://imageshack.com/a/img924/3931/4RxNMI.jpg" height="200"/><br>
 </div>
 
-# Getting started avec RetroPie et RetroBox 
-
-## Achetez une RetroBox :
+## Achetez une RetroBox
 
 Pour commander une RetroBox avec quelques accessoires, dirigez-vous vers la boutique [RetroBox Shop](http://retrobox.fr/shop).
 
 Pendant que vous attendez que votre RetroBox arrive, vous pouvez commencer à préparer tous les fichiers, lire les manuels dont vous aurez besoin:
 
- 
+
 Si vous voulez tout installer (compétences sur Linux nécessaires)
 
 * Recalbox : [Manual](FR-installation-manuelle-recalbox) (FR) (Attention, n'est plus supporté)
@@ -25,7 +21,7 @@ Si vous voulez tout installer (compétences sur Linux nécessaires)
 
 ## Première étape: Télécharger et graver l'image
 
-Pour le moment, la dernière version est: 1.00 
+Pour le moment, la dernière version est: 1.00
 
 Vous pouvez télécharger l'image ici: (lien vers gitlab)
 
@@ -85,7 +81,7 @@ Il suffit d'aller dans le dossier roms et faites glisser déposer vos roms!
 
 [https://github.com/retropie/retropie-setup/wiki/Transferring-Roms](https://github.com/retropie/retropie-setup/wiki/Transferring-Roms)
 
-## Conclusion :
+## Conclusion
 
 Yay ! Vous avez réussi à installer RetroPie sur la RetroBox, amusez-vous!
 
@@ -93,9 +89,6 @@ Yay ! Vous avez réussi à installer RetroPie sur la RetroBox, amusez-vous!
 
 (Crash bandicoot 3 Warped on PS1)
 
-## Autres :
+## Autres
 
 ASAP
-
-
-

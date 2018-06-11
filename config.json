@@ -13,7 +13,7 @@
       }, {
         "type": "page",
         "slug": "getting-started-fr",
-        "name": "Getting started"
+        "name": "Pour commencer"
       }, {
         "type": "page",
         "slug": "installation-manuelle-fr",
@@ -40,10 +40,10 @@
         "name": "Technical specification"
       }, {
         "slug": "getting-started-en",
-        "name": "Getting Started - with Retropie"
+        "name": "Getting Started"
       }, {
         "slug": "manual-installation-en",
-        "name": "Manual installation - RetroPie"
+        "name": "Manual installation"
       }, {
         "slug": "questions-en",
         "name": "Questions"

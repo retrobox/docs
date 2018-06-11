@@ -1,10 +1,14 @@
-### **Ajuster les paramètres**
+<div align="center" color="#0094D2">
+	<img src="http://imageshack.com/a/img924/3931/4RxNMI.jpg" height="200"/><br>
+</div>
+
+### Ajuster les paramètres
 
 * Oui, tu peux faire ça ! Appuyez simplement sur Démarrer et naviguez avec le joystick pour modifier les paramètres.
 
 ![image alt text](http://retrobox.happyblocks.info/project/Image/getting-started/RetroPie/image_14.png) ![image alt text](http://retrobox.happyblocks.info/project/Image/getting-started/RetroPie/image_15.png)
 
-### **FAQ :**
+### FAQ
 
 * Comment puis-je quitter un jeu?
 
@@ -17,9 +21,6 @@
 * Comment arrêter correctement la console?
 
 	- Appuyez simplement sur Démarrer et allez dans "Quit" et cliquez sur "Power Off"!
-        
-        
+
+
 ![image alt text](http://retrobox.happyblocks.info/project/Image/getting-started/RetroPie/image_16.png) ![image alt text](http://retrobox.happyblocks.info/project/Image/getting-started/RetroPie/image_17.png)
-
-
-

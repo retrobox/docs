@@ -1,10 +1,8 @@
 <div align="center" color="#0094D2">
-	<img src="https://raw.githubusercontent.com/RetroBox/RetroBox-Artworks/master/retrobox_logo.png" height="200" alt="W" /><br><br>
-    </div>
-    
-# Hardware specifications
+	<img src="http://imageshack.com/a/img924/3931/4RxNMI.jpg" height="200"/><br>
+</div>
 
-## Specifications :
+## Specifications
 
 * **CPU** : 1GHz single-core CPU (BCM2835)
 
@@ -24,7 +22,7 @@
 
 * **Dimensions**  : 177.15x66.53x30 mm (6.96x2.59x1.18″)
 
-## Schematics / 3D model :
+## Schematics / 3D model
 
 ![image alt text](http://retrobox.happyblocks.info/project/firstreleasepcb.png)
 
@@ -43,7 +41,7 @@ ______
 
 ## Case (Plexiglass & 3d case)
 
-They are many possibilities about the color of the RetroBox, but we have default model : 
+They are many possibilities about the color of the RetroBox, but we have default model :
 
 3D model : https://github.com/RetroBox/Raspberry-pi-Z-Version/tree/master/3d
 

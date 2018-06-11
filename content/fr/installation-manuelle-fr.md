@@ -1,15 +1,8 @@
-
 <div align="center" color="#0094D2">
-	<img src="https://raw.githubusercontent.com/RetroBox/RetroBox-Artworks/master/retrobox_logo.png" height="200" alt="W" /><br><br>
-    
-    
+	<img src="http://imageshack.com/a/img924/3931/4RxNMI.jpg" height="200"/><br>
 </div>
 
-
-# Installation de RetroPie sur RetroBox
-
-
-## Matériels :
+## Matériels
 
 * Un ordinateur connecter à Internet
 
@@ -27,7 +20,7 @@
 
 * Un réseau wifi WPA
 
-## Fichiers nécessaires :
+## Fichiers nécessaires
 
 * RetroPie :[https://retropie.org.uk/download/](https://retropie.org.uk/download/)
 
@@ -39,13 +32,13 @@
 
 * WinSCP : [https://winscp.net/eng/download.php](https://winscp.net/eng/download.php)
 
-## Préface :
+## Préface
 
 * Soyez patient, cela peut prendre du temps
 
 * Si vous avez le moindre problème contacter nous ! (Sur notre site ou par e-mail : @retrobox. )
 
-## Partie sur ordinateur :
+## Partie sur ordinateur
 
 * Graver retropie.img sur la carte sd avec etcher.io
 
@@ -55,7 +48,7 @@
 
 ![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_3.png)
 
-## Partie sur télévision :
+## Partie sur télévision
 
 * Branchez la RetroBox en HDMI sur un écran, Puis démarré la. (En ayant branché la manette)
 
@@ -74,7 +67,7 @@
 
 * Redémarrer la, en utilisant le support de la RetroBox
 
-## Retour sur l’ordinateur :
+## Retour sur l’ordinateur
 
 * Se connecter en ssh sur l’adresse ip de la RetroBox avec le logiciel Putty, puis, tapez ceci :
 
@@ -84,7 +77,7 @@
 
 ![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_11.png)
 
-## Configuration principale de la RetroBox :					
+## Configuration principale de la RetroBox					
 
 Pour pouvoir utiliser l’écran, il vous faut exécuter certaine commande		 
 
@@ -128,7 +121,7 @@ en SSH.
 
 14. *gpu_freq=300*
 
-![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_13.png)Faîtes CTRL+C pour copier le code ci-dessus, puis dans putty, faîtes clique droit pour coller 
+![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_13.png)Faîtes CTRL+C pour copier le code ci-dessus, puis dans putty, faîtes clique droit pour coller
 
 ----------------------------------------------------------------------------------
 
@@ -156,7 +149,7 @@ Puis faîtes CTRL + X pour finir l’édition puis appuyez sur Y pour valider.
 
 ![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_14.png)
 
-(Tout en bas de la page, **AVANT** "exit 0" rajouter : 
+(Tout en bas de la page, **AVANT** "exit 0" rajouter :
 
 **/usr/local/bin/fbcp &**
 
@@ -172,14 +165,14 @@ Puis faîtes CTRL + X pour finir l’édition puis appuyez sur Y pour valider.
 
 Une fois redémarrer l’écran et le son devrait fonctionner, mais pas le joystick, et les boutons
 
-## Configuration des joystick et des boutons :
+## Configuration des joystick et des boutons
 
-Installation de "mk_arcade_joystick_rpi":	
+Installation de "mk_arcade_joystick_rpi":
 
 ![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_17.png)
 ![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_19.png)![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_20.png)![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_21.png)![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_22.png)![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_23.png)![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_24.png)
 
-Puis redémarrer la console 
+Puis redémarrer la console
 
 Reconnectez vous sur le PI avec Putty puis exécuter les commandes suivantes :
 
@@ -200,11 +193,10 @@ Installation terminé !
 
 ![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_27.png)( Vous n’avez plus besoin de manette désormais)
 
-## Conclusion :
+## Conclusion
 
 Après avoir réussi l'installation manuelle de RetroPie, vous pouvez désormais suivre ce manuel [ICI](FR-getting-started-avec-retropie) pour installer des jeux, si vous avez des problèmes qui ne sont pas lister contacter nous !
 
-## Problèmes :
+## Problèmes
 
 * Asap
-

@@ -1,15 +1,15 @@
 <div align="center" color="#0094D2">
-	<img src="https://stoneset.pw/images/retrobox.jpg" height="200" alt="W" /><br><br>
-    </div>
+	<img src="http://imageshack.com/a/img924/3931/4RxNMI.jpg" height="200"/><br>
+</div>
 
-### Le projet : 
+### Le projet
 
-La RetroBox est une console portative, open-source qui tourne sur RetroPie, et vous permet de rejouez à tous les jeux de votre enfance, avec son autonomie d'environs 7 heures, vous ne saurais plus vous arrêtez ! 
-Projet en cours de construction, il sera mis en vente: EN JUIN 2018
+La RetroBox est une console portative, open-source qui tourne sur RetroPie, et vous permet de rejouez à tous les jeux de votre enfance, avec son autonomie d'environ 7 heures, vous ne saurais plus vous arrêtez !
+Projet en cours de construction, il sera mis en vente en juin 2018.
 
-Nous sommes désolé mais RecalBox, est désormais plus supporté par RetroBox.
+Nous sommes désolé mais RecalBox, n'est désormais plus supporté par RetroBox.
 
-### Fonctionnalitées :
+### Fonctionnalitées
 
  - Possibilité d'installer NOOBS ou Raspbian, avec le support tactile.
  - Émulé jusqu'à 55 consoles avec RetroPie
@@ -19,5 +19,5 @@ Nous sommes désolé mais RecalBox, est désormais plus supporté par RetroBox.
  - Espace illimité !
  - Un wiki ultra fourni
  - Un staff toujours à votre aide
- 
+
  Alors ? Qu'attendez vous ?
