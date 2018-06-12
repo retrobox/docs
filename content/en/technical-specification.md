@@ -1,5 +1,5 @@
 <div class="image-header">
-	<img src="http://imageshack.com/a/img923/3638/nUemDp.png"/>
+	<img src="https://i.imgur.com/32ObfXb.png"/>
 </div>
 
 ## Specifications
