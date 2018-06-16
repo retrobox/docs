@@ -22,7 +22,7 @@
 
 ## Fichiers nécessaires
 
-* RetroPie :[https://retropie.org.uk/download/](https://retropie.org.uk/download/)
+* RetroPie : [https://retropie.org.uk/download/](https://retropie.org.uk/download/)
 
 * RetroBox files : [http://file.happyblocks.info/retrobox/project/RetroBox%20Files.rar](http://file.happyblocks.info/retrobox/project/RetroBox%20Files.rar)
 
@@ -55,9 +55,12 @@
 * Aller dans le menu RetroPie, puis dans "Wifi"
 
 * Vous avez plusieurs façon de configurer un réseau wifi :
+
 ![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_6.png)![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_4.png)![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_5.png)
 
-* Avec le fichier "wifikeyfile.txt", vous avez juste à l’importer dans le menu (enregistrer sous /boot/wifikeyfile.txt)					![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_7.png)
+* Avec le fichier "wifikeyfile.txt", vous avez juste à l’importer dans le menu (enregistrer sous /boot/wifikeyfile.txt)				
+
+![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_7.png)
 
 * En branchant un clavier
 
@@ -156,7 +159,10 @@ Puis faîtes CTRL + X pour finir l’édition puis appuyez sur Y pour valider.
 
 **/usr/local/bin/fbcp &**
 
-![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_15.png)Faîtes CTRL+C pour copier le code ci-dessus, puis dans putty, faîtes clique droit pour coller )
+<div class="docs-alert info">
+  <i class="icon fas fa-question-circle"></i>
+  <p>Faîtes CTRL+C pour copier le code ci-dessus, puis dans putty, faîtes clique droit pour coller</p>
+</div>
 
 ----------------------------------------------------------------------------------
 
@@ -194,7 +200,10 @@ Vous avez donc une valeur égale à 0x20 (Notez le c’est important)
 
 Installation terminé !
 
-![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_27.png)( Vous n’avez plus besoin de manette désormais)
+<div class="docs-alert info">
+  <i class="icon fas fa-question-circle"></i>
+  <p>Vous n’avez plus besoin de manette désormais</p>
+</div>
 
 ## Conclusion
 

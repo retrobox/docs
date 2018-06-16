@@ -54,9 +54,12 @@
 * Go to the RetroPie menu, then in "Wifi"
 
 * You have several ways to configure a wifi network:
+
 ![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_6.png)![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_4.png)![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_5.png)
 
-* With the file "wifikeyfile.txt", you just have to import it in the menu (save as /boot/wifikeyfile.txt)				![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_7.png)
+* With the file "wifikeyfile.txt", you just have to import it in the menu (save as /boot/wifikeyfile.txt)				
+
+![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_7.png)
 
 * By connecting a keyboard
 
@@ -155,8 +158,10 @@ Then do CTRL + X to finish editing and press Y to validate.
 
 **/usr/local/bin/fbcp &**
 
-![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_15.png)Do CTRL + C to copy the code above, then in putty, click right to paste)
-
+<div class="docs-alert info">
+  <i class="icon fas fa-question-circle"></i>
+  <p>Do CTRL + C to copy the code above, then in putty, click right to paste</p>
+</div>
 
 ----------------------------------------------------------------------------------
 
@@ -193,14 +198,12 @@ Then look at the chip address:
 
 So you have a value equal to 0x20 (Note this is important)
 
-
-
-
-
-
 Installation finished!
 
-![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_27.png)You do not need a controller anymore
+<div class="docs-alert info">
+  <i class="icon fas fa-question-circle"></i>
+  <p>You do not need a controller anymore</p>
+</div>
 
 ## Conclusion
 
