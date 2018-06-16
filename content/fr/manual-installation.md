@@ -121,7 +121,7 @@ en SSH.
 
 14. *gpu_freq=300*
 
-<div class="docs-alert" role="alert">
+<div class="docs-alert info">
   <i class="icon fas fa-question-circle"></i>
   <p>Faîtes CTRL+C pour copier le code ci-dessus, puis dans putty, faîtes clique droit pour coller</p>
 </div>

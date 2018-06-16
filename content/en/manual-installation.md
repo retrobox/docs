@@ -120,7 +120,10 @@ in SSH.
 
 14. *gpu_freq=300*
 
-![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_13.png)Do CTRL + C to copy the code above, then in putty, click right to paste
+<div class="docs-alert info">
+  <i class="icon fas fa-question-circle"></i>
+  <p>Do CTRL + C to copy the code above, then in putty, click right to paste</p>
+</div>
 
 ----------------------------------------------------------------------------------
 
