@@ -5,7 +5,7 @@
 ### Le projet
 
 La RetroBox est une console portative, open-source qui tourne sur RetroPie, et vous permet de rejouez à tous les jeux de votre enfance, avec son autonomie d'environ 7 heures, vous ne saurais plus vous arrêtez !
-Projet en cours de construction, il sera mis en vente en juin 2018.
+Projet en cours de construction, les pré commandes seront ouvertes le 29 juin.
 
 Nous sommes désolé mais RecalBox, n'est désormais plus supporté par RetroBox.
 

@@ -16,6 +16,10 @@
         "name": "Pour commencer"
       }, {
         "type": "page",
+        "slug": "installation",
+        "name": "Installation"
+      }, {
+        "type": "page",
         "slug": "manual-installation",
         "name": "Installation manuelle"
       }, {

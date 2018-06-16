@@ -8,7 +8,7 @@
 
 * La RetroBox
 
-* Une carte SD de minimum 4 go
+* Une carte SD de minimum 4 go (8go recommandé)
 
 * Cable USB micro USB to USB
 
@@ -16,15 +16,15 @@
 
 * Chargeur 5V
 
-* Manette (Liste de compatibilité ici :)
+* Manette (Liste de compatibilité ici : [Retropie Wiki](https://github.com/RetroPie/RetroPie-Setup/wiki/Controller-Configuration))
 
-* Un réseau wifi WPA
+* Un réseau wifi WPA/WEP
 
 ## Fichiers nécessaires
 
 * RetroPie : [https://retropie.org.uk/download/](https://retropie.org.uk/download/)
 
-* RetroBox files : [http://file.happyblocks.info/retrobox/project/RetroBox%20Files.rar](http://file.happyblocks.info/retrobox/project/RetroBox%20Files.rar)
+* RetroBox files : [https://archives.retrobox.tech/dependency.zip](https://archives.retrobox.tech/dependency.zi)
 
 * Etcher : [https://etcher.io/](https://etcher.io/)
 
