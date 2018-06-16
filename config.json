@@ -8,10 +8,6 @@
       },
       "tree": [{
         "type": "page",
-        "slug": "technical-specification",
-        "name": "Spécifications techniques"
-      }, {
-        "type": "page",
         "slug": "getting-started",
         "name": "Pour commencer"
       }, {
@@ -20,16 +16,20 @@
         "name": "Installation"
       }, {
         "type": "page",
-        "slug": "manual-installation",
-        "name": "Installation manuelle"
-      }, {
-        "type": "page",
         "slug": "questions",
         "name": "Questions recurrentes"
       }, {
         "type": "page",
         "slug": "troubleshouting",
         "name": "Problèmes recurrents"
+      }, {
+        "type": "page",
+        "slug": "manual-installation",
+        "name": "Installation manuelle"
+      }, {
+        "type": "page",
+        "slug": "technical-specification",
+        "name": "Spécifications techniques"
       }]
     },
     {
@@ -40,20 +40,24 @@
         "name": "Welcome"
       },
       "tree": [{
-        "slug": "technical-specification",
-        "name": "Technical specification"
-      }, {
         "slug": "getting-started",
         "name": "Getting Started"
       }, {
-        "slug": "manual-installation",
-        "name": "Manual installation"
+        "type": "page",
+        "slug": "installation",
+        "name": "Installation"
       }, {
         "slug": "questions",
         "name": "Questions"
       }, {
         "slug": "troubleshouting",
         "name": "Troubleshouting"
+      }, {
+        "slug": "manual-installation",
+        "name": "Manual installation"
+      }, {
+        "slug": "technical-specification",
+        "name": "Technical specification"
       }]
     }
   ]
