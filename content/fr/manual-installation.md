@@ -4,11 +4,11 @@
 
 ## Matériels
 
-* Un ordinateur connecter à Internet
+* Un ordinateur connecté à Internet
 
 * La RetroBox
 
-* Une carte SD de MINIMUM 4 go
+* Une carte SD de minimum 4 go
 
 * Cable USB micro USB to USB
 
@@ -36,11 +36,11 @@
 
 * Soyez patient, cela peut prendre du temps
 
-* Si vous avez le moindre problème contacter nous ! (Sur notre site ou par e-mail : @retrobox. )
+* Si vous avez le moindre problème contactez nous ! (Sur notre site ou par e-mail : contact@retrobox.tech )
 
 ## Partie sur ordinateur
 
-* Graver retropie.img sur la carte sd avec etcher.io
+* Graver retropie.img sur la carte sd avec [etcher.io](http://etcher.io/)
 
 ![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_2.png)
 
@@ -155,7 +155,7 @@ Puis faîtes CTRL + X pour finir l’édition puis appuyez sur Y pour valider.
 
 ![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_14.png)
 
-(Tout en bas de la page, **AVANT** "exit 0" rajouter :
+Tout en bas de la page, **AVANT** "exit 0" rajoutez :
 
 **/usr/local/bin/fbcp &**
 
@@ -172,7 +172,7 @@ Puis faîtes CTRL + X pour finir l’édition puis appuyez sur Y pour valider.
 
 ![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_16.png)
 
-Une fois redémarrer l’écran et le son devrait fonctionner, mais pas le joystick, et les boutons
+Une fois redémarré, l’écran et le son devrait fonctionner, mais pas le joystick, et les boutons.
 
 ## Configuration des joystick et des boutons
 
@@ -181,7 +181,7 @@ Installation de "mk_arcade_joystick_rpi":
 ![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_17.png)
 ![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_19.png)![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_20.png)![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_21.png)![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_22.png)![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_23.png)![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_24.png)
 
-Puis redémarrer la console
+Puis redémarrez la console.
 
 Reconnectez vous sur le PI avec Putty puis exécuter les commandes suivantes :
 
@@ -207,7 +207,7 @@ Installation terminé !
 
 ## Conclusion
 
-Après avoir réussi l'installation manuelle de RetroPie, vous pouvez désormais suivre ce manuel [ICI](FR-getting-started-avec-retropie) pour installer des jeux, si vous avez des problèmes qui ne sont pas lister contacter nous !
+Après avoir réussi l'installation manuelle de RetroPie, vous pouvez désormais suivre ce manuel [ICI](FR-getting-started-avec-retropie) pour installer des jeux, si vous avez des problèmes qui ne sont pas listés contactez nous !
 
 ## Problèmes
 
