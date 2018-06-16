@@ -40,7 +40,7 @@
 
 ## Partie sur ordinateur
 
-* Graver retropie.img sur la carte sd avec [etcher.io](http://etcher.io/)
+* Graver retropie.img sur la carte sd avec [etcher.io](https://etcher.io/)
 
 ![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_2.png)
 

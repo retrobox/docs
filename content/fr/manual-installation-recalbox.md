@@ -1,7 +1,7 @@
 <div align="center" color="#0094D2">
 	<img src="https://raw.githubusercontent.com/retrobox/artworks/master/Illustration.png" height="200" alt="" /><br><br>
-    
-    
+
+
 </div>
 
 
@@ -29,7 +29,7 @@
 
 * RecalBox : [https://github.com/recalbox/recalbox-os/releases](https://github.com/recalbox/recalbox-os/releases)
 
-* RetroBox files : [http://file.happyblocks.info/retrobox/project/RetroBox%20Files.rar](http://file.happyblocks.info/retrobox/project/RetroBox%20Files.rar)
+* RetroBox files : [http://file.happyblocks.info/retrobox/project/RetroBox%20Files.rar](https://file.happyblocks.info/retrobox/project/RetroBox%20Files.rar)
 
 * Etcher : [https://etcher.io/](https://etcher.io/)
 
@@ -47,7 +47,7 @@
 
 * Graver recalbox.img sur la carte sd avec etcher.io
 
-![image alt text](http://retrobox.happyblocks.info/project/Image/manual/RecalBox/FR/image_2.png)
+![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RecalBox/FR/image_2.png)
 
 * Aller dans la partition boot de la carte SD puis :
 
@@ -59,7 +59,7 @@ Copier les fichiers :
 
 dans /boot/overlays
 
-![image alt text](http://retrobox.happyblocks.info/project/Image/manual/RecalBox/FR/image_3.png)
+![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RecalBox/FR/image_3.png)
 
 * Ejecter la carte sd et insérez là dans votre RetroBox et patientez pour le premier démarrage
 
@@ -96,7 +96,7 @@ Copier coller :
 ![image alt text](http://retrobox.happyblocks.info/project/Image/manual/RecalBox/FR/image_6.png)Faîtes CTRL+C pour copier le code ci-dessus, puis dans putty, faîtes clique droit pour coller !
 
 `#tft screen`
- 
+
 `#Waveshare 3.2 TFT Screen`
 `#same resolution for hdmi and tft`
 `hdmi_force_hotplug=1`
@@ -104,7 +104,7 @@ Copier coller :
 `hdmi_group=2`              
 `hdmi_mode=1`                 
 `hdmi_mode=87`             
- 
+
 `dtparam=spi=on`            
 `dtoverlay=waveshare32b:rotate=270,speed=82000000`
 
@@ -251,9 +251,8 @@ Exemple  : `sudo modprobe mk_arcade_joystick_rpi map=1,0x20`
 
 ## Conclusion :
 
-Et voilà vous avez réussi l’installation de RetroBox sur la raspberry pi ! Pour continuer l’installation, regarder sur l’autre manuel pour installer des jeux. 
+Et voilà vous avez réussi l’installation de RetroBox sur la raspberry pi ! Pour continuer l’installation, regarder sur l’autre manuel pour installer des jeux.
 
 ## Problèmes :
 
 * LISTER LES PROBLÈMES RÉCURRENT
-

@@ -4,7 +4,7 @@
 
 ## Achetez une RetroBox
 
-Pour commander une RetroBox avec quelques accessoires, dirigez-vous vers la boutique [RetroBox Shop](http://retrobox.fr/shop).
+Pour commander une RetroBox avec quelques accessoires, dirigez-vous vers la boutique [RetroBox Shop](https://retrobox.fr/shop).
 
 Pendant que vous attendez que votre RetroBox arrive, vous pouvez commencer a regrouper le matériel nécessaire pour le montage de la console.
 
@@ -19,7 +19,7 @@ Temps estimé au montage ~ 3h - 4h
 Une fois que vous avez reçu votre colis, il est possible que nous avons oublié un composant, (nous sommes humains, mais je vous rassure cela n'arrive pratiquement jamais) si c'est le cas, contactez nous, nous vous réexpidrons le composant manquant)
 
 Voici ce que contient la boîte :
-![image alt text](http://archives.retrobox.tech/img/box.png)
+![image alt text](https://archives.retrobox.tech/img/box.png)
 
 Si tout est ok, parfait, vous pouvez commencer l'assemblage !
 
