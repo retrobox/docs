@@ -19,7 +19,7 @@ Estimated time to assemble ~ 3h - 4h
 Once you have received your package, it is possible that we have forgotten a component, (we are human, but I reassure you it almost never happens) if it is the case, contact us, we will re-expedite the component missing)
 
 Here is what the box contains:
-! [image alt text](https://static.retrobox.tech/img/box.png)
+! [image alt text](https://static.retrobox.tech/img/box.jpg)
 
 If everything is ok, perfect, you can start assembling!
 

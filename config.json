@@ -3,10 +3,14 @@
       "slug": "fr",
       "name": "Français",
       "home": {
-        "slug": "getting-started",
-        "name": "Pour commencer"
+        "slug": "home",
+        "name": "Accueil"
       },
       "tree": [{
+          "type": "page",
+          "slug": "getting-started",
+          "name": "Pour commencer"
+        },{
         "type": "page",
         "slug": "assemblage",
         "name": "Soudure des composants"
@@ -40,10 +44,13 @@
       "slug": "en",
       "name": "English",
       "home": {
-        "slug": "getting-started",
-        "name": "Start with Retrobox"
+        "slug": "home",
+        "name": "Home"
       },
       "tree": [{
+        "slug": "getting-started",
+        "name": "Start with Retrobox"
+      },{
         "slug": "assemblage",
         "name": "Soldering the composants"
       },{

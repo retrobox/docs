@@ -20,4 +20,12 @@ Nous sommes désolé mais RecalBox, n'est désormais plus supporté par RetroBox
  - Un wiki ultra fourni
  - Un staff toujours à votre aide
 
+### Qu'apprendrez vous avec Retrobox ?
+
+* Comment souder
+* La base de l'électronique et les fonctions des composants
+* Des notions Linux
+* La création de vos propres jeux
+* L'existence de certain jeux... inconnue au grand publique
+
  Alors ? Qu'attendez vous ?
