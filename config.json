@@ -3,13 +3,17 @@
       "slug": "fr",
       "name": "Français",
       "home": {
-        "slug": "home",
-        "name": "Bienvenue"
+        "slug": "getting-started",
+        "name": "Pour commencer"
       },
       "tree": [{
         "type": "page",
-        "slug": "getting-started",
-        "name": "Pour commencer"
+        "slug": "assemblage",
+        "name": "Soudure des composants"
+      },{
+        "type": "page",
+        "slug": "finishing",
+        "name": "Finition"
       }, {
         "type": "page",
         "slug": "installation",
@@ -36,12 +40,15 @@
       "slug": "en",
       "name": "English",
       "home": {
-        "slug": "home",
-        "name": "Welcome"
+        "slug": "getting-started",
+        "name": "Start with Retrobox"
       },
       "tree": [{
-        "slug": "getting-started",
-        "name": "Getting Started"
+        "slug": "assemblage",
+        "name": "Soldering the composants"
+      },{
+        "slug": "finishing",
+        "name": "Finishing"
       }, {
         "type": "page",
         "slug": "installation",
