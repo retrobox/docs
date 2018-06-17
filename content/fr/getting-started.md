@@ -4,7 +4,7 @@
 
 ## Achetez une RetroBox
 
-Pour commander une RetroBox avec quelques accessoires, dirigez-vous vers la boutique [RetroBox Shop](https://retrobox.fr/shop).
+Pour commander une RetroBox avec quelques accessoires, dirigez-vous vers la boutique [RetroBox Shop](https://retrobox.tech/shop).
 
 Pendant que vous attendez que votre RetroBox arrive, vous pouvez commencer a regrouper le matériel nécessaire pour le montage de la console.
 

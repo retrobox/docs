@@ -2,74 +2,73 @@
 	<img src="https://i.imgur.com/32ObfXb.png"/>
 </div>
 
-## Après avoir monté votre console :
+## After you have assembled your console:
 
+If you want to install everything (Linux skills needed)
 
-Si vous voulez tout installer (compétences sur Linux nécessaires)
+* Recalbox: [Manual](manual-installation-recalbox) (Warning, no longer supported)
 
-* Recalbox : [Manual](manual-installation-recalbox) (Attention, n'est plus supporté)
+* Retropie: [Manual](manual-installation)
 
-* Retropie :  [Manual]((manual-installation)
+* If you just want to burn the image to the SD card, no configuration is necessary
 
-* Si vous voulez juste graver l'image sur la carte SD, aucune configuration est nécessaire
+     * Follow this guide
 
-    * Suivez ce guide
+Estimated time to install ~ 0.3h - 1h
 
-Temps estimé à l'installation ~ 0.3h - 1h
+## First step: Download the application
 
-## Première étape: Télécharger l'application
+At the moment, the latest version is: 1.00
 
-Pour le moment, la dernière version est: 1.00
-
-Télécharger l'application Retrobox ici : [https://retrobox.tech/download](https://retrobox.tech/download)
+Download the Retrobox application here: [https://retrobox.tech/download](https://retrobox.tech/download)
 
 ![image alt text](https://archives.retrobox.tech/img/app.png)
 
-Si vous avez des erreurs, dites-le nous et nous vous aiderons! `(support@retrobox.tech)`
+If you have any errors, tell us and we'll help you! `(support@retrobox.tech)`
 
-## Deuxième étape: L'application, installation de Retropie
+## Second step: The application, installation of Retropie
 
 ![image alt text](https://archives.retrobox.tech/img/image_3.png) ![image alt text](https://archives.retrobox.tech/img/image_4.png)
 
-SCREENSHOT, avec explication
+SCREENSHOT, with explication lel
 
-## Deuxième étape: ajouter des jeux dans la RetroBox
+## Third step: add games in the RetroBox
 
-Pour ajouter des jeux, c'est super simple! Vous avez beaucoup de possibilitées:
+To add games, it's super simple! You have many possibilities:
 
-* **I**. Avec l'application, disponible sur Windows, iOS et Android, choisissez simplement votre OS et ajoutez vos propres jeux, avec la liste ou votre propre rom!
+* **I**. With the app, available on Windows, iOS and Android, simply choose your OS and add your own games, along with the list or your own rom!
 
-[APP PICTURES GOES HERE]
+[PICTURES APP GOES HERE]
 
 
-*  **II**. Avec windows [Samba] (oui c’est possible, aucun login est requis) :
+*  **II**. With windows [Samba] (yes it is possible, no login is required):
 
 ![image alt text](http://retrobox.happyblocks.info/project/Image/getting-started/RetroPie/image_10.png) ![image alt text](http://retrobox.happyblocks.info/project/Image/getting-started/RetroPie/image_11.png)
 
-Pour accéder au serveur SAMBA de la console : Taper `\\RETROPIE` dans la barre de recherche de windows, ou l'adresse IP de la machine.
+To access the SAMBA server from the console: Type `\\ RETROPIE` in the windows search bar, or the IP address of the machine.
 
-Il suffit d'aller dans le dossier roms et faites glisser déposer vos roms!
+Just go to the roms folder and drag and drop your roms!
 
-*  **III**. Avec WinSCP, connectez-vous simplement sur la console en sftp, et ajoutez vos propres jeux
+* **III**. With WinSCP, simply connect to the console in sftp, and add your own games
 
-			Login : pi
+Login: pi
 
-			Password : raspberry
+Password: raspberry
 
 ![image alt text](http://retrobox.happyblocks.info/project/Image/getting-started/RetroPie/image_8.png) ![image alt text](http://retrobox.happyblocks.info/project/Image/getting-started/RetroPie/image_9.png)
 
-* Plus d'informations ici:
+* More information here:
 
 [https://github.com/retropie/retropie-setup/wiki/Transferring-Roms](https://github.com/retropie/retropie-setup/wiki/Transferring-Roms)
 
 ## Conclusion
 
-Yay ! Vous avez réussi à installer RetroPie sur la RetroBox, amusez-vous!
+Yay! You have successfully installed RetroPie on the RetroBox, have fun!
 
 ## ![image alt text](http://retrobox.happyblocks.info/project/Image/getting-started/RetroPie/image_12.png) ![image alt text](http://retrobox.happyblocks.info/project/Image/getting-started/RetroPie/image_13.png)
 
 (Crash bandicoot 3 Warped on PS1)
 
-## Autres
+## Others things
 
 ASAP

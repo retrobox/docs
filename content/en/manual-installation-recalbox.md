@@ -1,7 +1,7 @@
 <div align="center" color="#0094D2">
-	<img src="https://raw.githubusercontent.com/RetroBox/RetroBox-Artworks/master/retrobox_logo.png" height="200" alt="W" /><br><br>
-    
-    
+	<img src="https://i.imgur.com/32ObfXb.png" height="200" alt="W" /><br><br>
+
+
 </div>
 
 
@@ -9,7 +9,7 @@
 
 ##  Materials :
 
-* A computer connect to Internet
+* A computer connected to Internet
 
 * The RetroBox
 
@@ -21,17 +21,17 @@
 
 * 5V charger
 
-* Manette (compatibility list here: 
+* Gamepad (compatibility list here:
 
 [https://github.com/recalbox/recalbox-os/wiki/Compatibility-%28EN%29](https://github.com/recalbox/recalbox-os/wiki/Compatibility-%28EN%29))
 
-* WPA wifi network
+* WPA/WEP wifi network
 
 ## Required files :
 
 * RecalBox : [https://github.com/recalbox/recalbox-os/releases](https://github.com/recalbox/recalbox-os/releases)
 
-* RetroBox files : [http://file.happyblocks.info/retrobox/project/RetroBox%20Files.rar](http://file.happyblocks.info/retrobox/project/RetroBox%20Files.rar)
+* RetroBox files : [https://static.retrobox.tech/dependency.zip](https://static.retrobox.tech/dependency.zip)
 
 * Etcher : [https://etcher.io/](https://etcher.io/)
 
@@ -43,13 +43,13 @@
 
 * Be patient, it can take time
 
-* If you have any problem contact us! (On our website or by e-mail: @retrobox.)
+* If you have any problem contact us! (On our website or by e-mail: `support@retrobox.tech`.)
 
 ## On the computer :
 
 * Burn `recalbox.img` on the sd card with etcher.io
 
-![image alt text](http://retrobox.happyblocks.info/project/Image/manual/RecalBox/EN/image_2.png)
+![image alt text](https://static.retrobox.tech/img/manual/RecalBox/EN/image_2.png)
 
 * Go into the boot partition of the SD card then :
 
@@ -61,11 +61,11 @@ Copy these files :
 
 in `/boot/overlays`
 
-![image alt text](http://retrobox.happyblocks.info/project/Image/manual/RecalBox/EN/image_3.png)
+![image alt text](https://static.retrobox.tech/img/manual/RecalBox/EN/image_3.png)
 
 * Eject the SD card and insert it into your RetroBox and wait for the first boot
 
-![image alt text](http://retrobox.happyblocks.info/project/Image/manual/RecalBox/EN/image_4.png)
+![image alt text](https://static.retrobox.tech/img/manual/RecalBox/EN/image_4.png)
 
 ## On the TV :
 
@@ -85,7 +85,7 @@ in `/boot/overlays`
 
 * Run the following commands:
 
-![image alt text](http://retrobox.happyblocks.info/project/Image/manual/RecalBox/EN/image_5.png)
+![image alt text](https://static.retrobox.tech/img/manual/RecalBox/EN/image_5.png)
 
 `mount -o remount, rw /boot`
 
@@ -95,10 +95,13 @@ in `/boot/overlays`
 
 Copy and past :
 
-![image alt text](http://retrobox.happyblocks.info/project/Image/manual/RecalBox/EN/image_6.png)Do CTRL + C to copy the code above, then in putty, right click with the mouse to paste!
+<div class="docs-alert info">
+  <i class="icon fas fa-question-circle"></i>
+  <p>Do CTRL + C to copy the code above, then in putty, right click with the mouse to paste!</p>
+</div>
 
 `#tft screen`
- 
+
 `#Waveshare 3.2 TFT Screen`
 `#same resolution for hdmi and tft`
 `hdmi_force_hotplug=1`
@@ -106,17 +109,20 @@ Copy and past :
 `hdmi_group=2`                
 `hdmi_mode=1`                 
 `hdmi_mode=87`                
- 
+
 `dtparam=spi=on`              
 `dtoverlay=waveshare32b:rotate=270,speed=82000000`
 
 `dtoverlay=pwm-2chan,pin=19,func=2,pin2=13,func2=4`
 
-![image alt text](http://retrobox.happyblocks.info/project/Image/manual/RecalBox/EN/image_7.png)
+![image alt text](https://static.retrobox.tech/img/manual/RecalBox/EN/image_7.png)
 
 ----------------------------------------------------------------------------------
+<div class="docs-alert info">
+  <i class="icon fas fa-question-circle"></i>
+  <p>Then do CTRL + X to finish editing and press Y to validate.</p>
+</div>
 
-Then do CTRL + X to finish editing and press Y to validate.
 
 `cd /usr/bin`
 
@@ -128,7 +134,7 @@ Then do CTRL + X to finish editing and press Y to validate.
 
 `nano /etc/init.d/S11fbcp`
 
-![image alt text](http://retrobox.happyblocks.info/project/Image/manual/RecalBox/EN/image_8.png)
+![image alt text](https://static.retrobox.tech/img/manual/RecalBox/EN/image_8.png)
 
 ----------------------------------------------------------------------------------
 
@@ -160,7 +166,11 @@ Copy and past :
 
 ----------------------------------------------------------------------------------
 
-Then do CTRL + X to finish editing and press Y to validate.
+<div class="docs-alert info">
+  <i class="icon fas fa-greater-than-equal"></i>
+  <p>Then do CTRL + X to finish editing and press Y to validate.</p>
+</div>
+
 
 cd /etc/init.d/
 
@@ -184,7 +194,7 @@ Then replace with : "controllers.gpio.enabled=1"
 
 (without "")
 
-Look for the line : "**;**system.power.switch=PIN356ONOFFRESET"
+Look for the line : "**;** system.power.switch=PIN356ONOFFRESET"
 
 Then replace with : "system.power.switch=PIN356ONOFFRESET"
 
@@ -194,7 +204,11 @@ Then replace with : "system.power.switch=PIN356ONOFFRESET"
 
 ----------------------------------------------------------------------------------
 
-Then do CTRL + X to finish editing and press Y to validate.
+<div class="docs-alert info">
+  <i class="icon fas fa-greater-than-equal"></i>
+  <p>Then do CTRL + X to finish editing and press Y to validate.</p>
+</div>
+
 
 sudo nano /etc/modules
 
@@ -208,7 +222,11 @@ i2c-dev
 
 ----------------------------------------------------------------------------------
 
-Then do CTRL + X to finish editing and press Y to validate.
+<div class="docs-alert info">
+  <i class="icon fas fa-greater-than-equal"></i>
+  <p>Then do CTRL + X to finish editing and press Y to validate.</p>
+</div>
+
 
 sudo nano /etc/modprobe.d/raspi-blacklist.conf
 
@@ -222,7 +240,11 @@ Then add a # in front of "i2c-bcm2708"
 
 ----------------------------------------------------------------------------------
 
-CTRL + X to finish editing and press Y to confirm.
+<div class="docs-alert info">
+  <i class="icon fas fa-greater-than-equal"></i>
+  <p>Then do CTRL + X to finish editing and press Y to validate.</p>
+</div>
+
 
 modprobe i2c-bcm2708 i2c-dev
 
@@ -250,9 +272,9 @@ reboot
 
 * logo-version.png
 
-![image alt text](http://retrobox.happyblocks.info/project/Image/manual/RecalBox/EN/image_9.png)
+![image alt text](https://static.retrobox.tech/img/manual/RecalBox/EN/image_9.png)
 
-![image alt text](http://retrobox.happyblocks.info/project/Image/manual/RecalBox/EN/image_10.png)( You do not need a controller anymore )
+![image alt text](https://static.retrobox.tech/img/manual/RecalBox/EN/image_10.png)( You do not need a controller anymore )
 
 ## Conclusion :
 
@@ -260,5 +282,4 @@ You have successfully installed RecalBox on the RetroBox ! To continue the insta
 
 ## Problems :
 
-* LISTER LES PROBLÈMES RÉCURRENT
-
+* LISTER LES PROBLÈMES RÉCURRENTS

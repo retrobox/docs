@@ -29,7 +29,7 @@
 
 * RecalBox : [https://github.com/recalbox/recalbox-os/releases](https://github.com/recalbox/recalbox-os/releases)
 
-* RetroBox files : [http://file.happyblocks.info/retrobox/project/RetroBox%20Files.rar](https://static.retrobox.tech/dependency.zip)
+* RetroBox files : [https://static.retrobox.tech/dependency.zip](https://static.retrobox.tech/dependency.zip)
 
 * Etcher : [https://etcher.io/](https://etcher.io/)
 

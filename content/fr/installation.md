@@ -68,7 +68,7 @@ Yay ! Vous avez réussi à installer RetroPie sur la RetroBox, amusez-vous!
 
 ## ![image alt text](https://static.retrobox.tech/img/getting-started/RetroPie/image_12.png) ![image alt text](https://static.retrobox.tech/img/getting-started/RetroPie/image_13.png)
 
-(Crash bandicoot 3 Warped on PS1)
+(Crash bandicoot 3 Warped sur PS1)
 
 ## Autres
 

@@ -130,8 +130,10 @@ en SSH.
 </div>
 
 ----------------------------------------------------------------------------------
-
-Puis faîtes CTRL + X pour finir l’édition puis appuyez sur Y pour valider.
+<div class="docs-alert info">
+  <i class="icon fas fa-greater-than-equal"></i>
+  <p>Puis faîtes CTRL + X pour finir l’édition puis appuyez sur Y pour valider.</p>
+</div>
 
 1. *ls /dev/fb**
 
@@ -166,7 +168,10 @@ Tout en bas de la page, **AVANT** "exit 0" rajoutez :
 
 ----------------------------------------------------------------------------------
 
-Puis faîtes CTRL + X pour finir l’édition puis appuyez sur Y pour valider.
+<div class="docs-alert info">
+  <i class="icon fas fa-greater-than-equal"></i>
+  <p>Puis faîtes CTRL + X pour finir l’édition puis appuyez sur Y pour valider.</p>
+</div>
 
 1. sudo reboot
 
