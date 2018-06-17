@@ -9,7 +9,7 @@ Si vous voulez tout installer (compétences sur Linux nécessaires)
 
 * Recalbox : [Manual](manual-installation-recalbox) (Attention, n'est plus supporté)
 
-* Retropie :  [Manual]((manual-installation)
+* Retropie :  [Manual](manual-installation)
 
 * Si vous voulez juste graver l'image sur la carte SD, aucune configuration est nécessaire
 
@@ -23,13 +23,13 @@ Pour le moment, la dernière version est: 1.00
 
 Télécharger l'application Retrobox ici : [https://retrobox.tech/download](https://retrobox.tech/download)
 
-![image alt text](https://archives.retrobox.tech/img/app.png)
+![image alt text](https://static.retrobox.tech/img/app.png)
 
 Si vous avez des erreurs, dites-le nous et nous vous aiderons! `(support@retrobox.tech)`
 
 ## Deuxième étape: L'application, installation de Retropie
 
-![image alt text](https://archives.retrobox.tech/img/image_3.png) ![image alt text](https://archives.retrobox.tech/img/image_4.png)
+![image alt text](https://static.retrobox.tech/img/image_3.png) ![image alt text](https://static.retrobox.tech/img/image_4.png)
 
 SCREENSHOT, avec explication
 
@@ -44,7 +44,7 @@ Pour ajouter des jeux, c'est super simple! Vous avez beaucoup de possibilitées:
 
 *  **II**. Avec windows [Samba] (oui c’est possible, aucun login est requis) :
 
-![image alt text](https://retrobox.happyblocks.info/project/Image/getting-started/RetroPie/image_10.png) ![image alt text](https://retrobox.happyblocks.info/project/Image/getting-started/RetroPie/image_11.png)
+![image alt text](https://static.retrobox.tech/img/getting-started/RetroPie/image_10.png) ![image alt text](https://static.retrobox.tech/img/getting-started/RetroPie/image_11.png)
 
 Pour accéder au serveur SAMBA de la console : Taper `\\RETROPIE` dans la barre de recherche de windows, ou l'adresse IP de la machine.
 
@@ -56,7 +56,7 @@ Il suffit d'aller dans le dossier roms et faites glisser déposer vos roms!
 
 			Password : raspberry
 
-![image alt text](https://retrobox.happyblocks.info/project/Image/getting-started/RetroPie/image_8.png) ![image alt text](https://retrobox.happyblocks.info/project/Image/getting-started/RetroPie/image_9.png)
+![image alt text](https://static.retrobox.tech/img/getting-started/RetroPie/image_8.png) ![image alt text](https://static.retrobox.tech/img/getting-started/RetroPie/image_9.png)
 
 * Plus d'informations ici:
 
@@ -66,7 +66,7 @@ Il suffit d'aller dans le dossier roms et faites glisser déposer vos roms!
 
 Yay ! Vous avez réussi à installer RetroPie sur la RetroBox, amusez-vous!
 
-## ![image alt text](https://retrobox.happyblocks.info/project/Image/getting-started/RetroPie/image_12.png) ![image alt text](https://retrobox.happyblocks.info/project/Image/getting-started/RetroPie/image_13.png)
+## ![image alt text](https://static.retrobox.tech/img/getting-started/RetroPie/image_12.png) ![image alt text](https://static.retrobox.tech/img/getting-started/RetroPie/image_13.png)
 
 (Crash bandicoot 3 Warped on PS1)
 

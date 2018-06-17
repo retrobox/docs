@@ -1,7 +1,7 @@
 <div align="center" color="#0094D2">
-	<img src="https://raw.githubusercontent.com/retrobox/artworks/master/Illustration.png" height="200" alt="" /><br><br>
-
-
+			<img src="https://i.imgur.com/32ObfXb.png"/>
+		<br>
+	<br>
 </div>
 
 
@@ -29,7 +29,7 @@
 
 * RecalBox : [https://github.com/recalbox/recalbox-os/releases](https://github.com/recalbox/recalbox-os/releases)
 
-* RetroBox files : [http://file.happyblocks.info/retrobox/project/RetroBox%20Files.rar](https://file.happyblocks.info/retrobox/project/RetroBox%20Files.rar)
+* RetroBox files : [http://file.happyblocks.info/retrobox/project/RetroBox%20Files.rar](https://static.retrobox.tech/dependency.zip)
 
 * Etcher : [https://etcher.io/](https://etcher.io/)
 
@@ -41,13 +41,13 @@
 
 * Soyez patient, cela peut prendre du temps
 
-* Si vous avez le moindre problème contacter nous ! (Sur notre site ou par e-mail : @retrobox. )
+* Si vous avez le moindre problème contacter nous ! (Sur notre site ou par e-mail : contact@etrobox.tech)
 
 ## Partie sur ordinateur :
 
 * Graver recalbox.img sur la carte sd avec etcher.io
 
-![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RecalBox/FR/image_2.png)
+![image alt text](https://static.retrobox.tech/img/manual/RecalBox/FR/image_2.png)
 
 * Aller dans la partition boot de la carte SD puis :
 
@@ -59,11 +59,11 @@ Copier les fichiers :
 
 dans /boot/overlays
 
-![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RecalBox/FR/image_3.png)
+![image alt text](https://static.retrobox.tech/img/manual/RecalBox/FR/image_3.png)
 
 * Ejecter la carte sd et insérez là dans votre RetroBox et patientez pour le premier démarrage
 
-![image alt text](http://retrobox.happyblocks.info/project/Image/manual/RecalBox/FR/image_4.png)
+![image alt text](https://static.retrobox.tech/img/manual/RecalBox/FR/image_4.png)
 
 ## Partie sur télévision :
 
@@ -83,7 +83,7 @@ dans /boot/overlays
 
 * Exécutez les commandes suivantes :
 
-![image alt text](http://retrobox.happyblocks.info/project/Image/manual/RecalBox/FR/image_5.png)
+![image alt text](https://static.retrobox.tech/img/manual/RecalBox/FR/image_5.png)
 
 `mount -o remount, rw /boot`
 
@@ -93,7 +93,7 @@ dans /boot/overlays
 
 Copier coller :
 
-![image alt text](http://retrobox.happyblocks.info/project/Image/manual/RecalBox/FR/image_6.png)Faîtes CTRL+C pour copier le code ci-dessus, puis dans putty, faîtes clique droit pour coller !
+![image alt text](https://static.retrobox.tech/img/manual/RecalBox/FR/image_6.png)Faîtes CTRL+C pour copier le code ci-dessus, puis dans putty, faîtes clique droit pour coller !
 
 `#tft screen`
 
@@ -110,7 +110,7 @@ Copier coller :
 
 `dtoverlay=pwm-2chan,pin=19,func=2,pin2=13,func2=4`
 
-![image alt text](http://retrobox.happyblocks.info/project/Image/manual/RecalBox/FR/image_7.png)
+![image alt text](https://static.retrobox.tech/img/manual/RecalBox/FR/image_7.png)
 
 ----------------------------------------------------------------------------------
 
@@ -126,7 +126,7 @@ Puis faîtes CTRL + X pour finir l’édition puis appuyez sur Y pour valider.
 
 `nano /etc/init.d/S11fbcp`
 
-![image alt text](http://retrobox.happyblocks.info/project/Image/manual/RecalBox/FR/image_8.png)
+![image alt text](https://static.retrobox.tech/img/manual/RecalBox/FR/image_8.png)
 
 ----------------------------------------------------------------------------------
 
@@ -245,9 +245,9 @@ Exemple  : `sudo modprobe mk_arcade_joystick_rpi map=1,0x20`
 
 * `logo-version.png`
 
-![image alt text](http://retrobox.happyblocks.info/project/Image/manual/RecalBox/FR/image_9.png)
+![image alt text](https://static.retrobox.tech/img/manual/RecalBox/FR/image_9.png)
 
-![image alt text](http://retrobox.happyblocks.info/project/Image/manual/RecalBox/FR/image_10.png)( Vous n’avez plus besoin de manette désormais)
+![image alt text](https://static.retrobox.tech/img/manual/RecalBox/FR/image_10.png)( Vous n’avez plus besoin de manette désormais)
 
 ## Conclusion :
 
