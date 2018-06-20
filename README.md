@@ -20,6 +20,10 @@ Please refer to [Markdown reference](http://commonmark.org/help/) to write markd
 
 The markdown's content shouldn't contain the name of the page and shouldn't contain any level heading 1 (h1) tag.
 
+## Serving static content
+
+You can use nginx, see configuration at `nginx.conf` or if you can't, just use the nodejs server with express js by running `app.js`, CORS header are included.
+
 ## Contributing
 
 This service is managed by lefuturiste <contact@lefuturiste.fr>
