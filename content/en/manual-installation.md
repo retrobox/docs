@@ -22,7 +22,7 @@
 
 ## Needed files
 
-* RetroPie :[https://retropie.org.uk/download/](https://retropie.org.uk/download/)
+* RetroPie : [https://retropie.org.uk/download/](https://retropie.org.uk/download/)
 
 * Etcher : [https://etcher.io/](https://etcher.io/)
 
