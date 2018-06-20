@@ -8,7 +8,7 @@ The raw documentation of the retrobox project, markdown-formatted.
 - categories (collection of pages)
 - pages (the pages is the matter of the documentation)
 
-## Configuraation file
+## Configuration file
 
 `config.json` is the main configuration file of this Documentation, it refer all of the categories and pages and structure the Documentation.
 

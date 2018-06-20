@@ -16,10 +16,10 @@ Simply choose your console and press select button, and here we go !
 
 Just press Start and go in "Quit" and hit Power off !
 
-![image alt text](http://retrobox.happyblocks.info/project/Image/getting-started/RetroPie/image_16.png)![image alt text](http://retrobox.happyblocks.info/project/Image/getting-started/RetroPie/image_17.png)
+![image alt text](https://static.retrobox.tech/img/getting-started/RetroPie/image_16.png)![image alt text](https://static.retrobox.tech/img/getting-started/RetroPie/image_17.png)
 
 ### How can I adjust the settings ?
 
 Yes you can do that ! Just press Start, and navigate with the joystick to change settings.
 
-![image alt text](http://retrobox.happyblocks.info/project/Image/getting-started/RetroPie/image_14.png)![image alt text](http://retrobox.happyblocks.info/project/Image/getting-started/RetroPie/image_15.png)
+![image alt text](https://static.retrobox.tech/img/getting-started/RetroPie/image_14.png)![image alt text](https://static.retrobox.tech/img/getting-started/RetroPie/image_15.png)

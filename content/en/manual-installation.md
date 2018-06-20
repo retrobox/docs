@@ -16,9 +16,9 @@
 
 * 5V charger
 
-* Controller (compatibility list here :)
+* Gamepad (compatibility list here :)
 
-* WPA wifi network
+* WPA/WEP wifi network
 
 ## Needed files
 
@@ -34,17 +34,17 @@
 
 * Be patient, it can take time
 
-* If you have any problem contact us! (On our website or by e-mail: @retrobox.)
+* If you have any problem contact us! (On our website or by e-mail: `support@retrobox.tech`.)
 
 ## On the Computer
 
 * Burn retropie.img on the map sd with etcher.io
 
-![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_2.png)
+![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_2.png)
 
 * Eject the SD card and insert it into your RetroBox and wait for the first boot
 
-![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_3.png)
+![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_3.png)
 
 
 ## On the television
@@ -55,15 +55,15 @@
 
 * You have several ways to configure a wifi network:
 
-![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_6.png)![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_4.png)![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_5.png)
+![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_6.png)![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_4.png)![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_5.png)
 
 * With the file "wifikeyfile.txt", you just have to import it in the menu (save as /boot/wifikeyfile.txt)				
 
-![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_7.png)
+![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_7.png)
 
 * By connecting a keyboard
 
-![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_9.png)![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_8.png)![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_10.png)
+![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_9.png)![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_8.png)![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_10.png)
 
 * Go to "Raspi-Config", then in Connection, then enable SSH
 
@@ -77,7 +77,7 @@
 
 * **Password :** raspberry
 
-![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_11.png)
+![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_11.png)
 
 ## Main configuration of the RetroBox
 
@@ -130,8 +130,10 @@ in SSH.
 
 ----------------------------------------------------------------------------------
 
-Then do CTRL + X to finish editing and press Y to validate.
-
+<div class="docs-alert info">
+  <i class="icon fas fa-greater-than-equal"></i>
+  <p>Then do CTRL + X to finish editing and press Y to validate.</p>
+</div>
 1. *ls /dev/fb**
 
 2. *sudo apt-get install cmake*
@@ -152,7 +154,7 @@ Then do CTRL + X to finish editing and press Y to validate.
 
 10. *sudo nano /etc/rc.local*
 
-![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_14.png)
+![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_14.png)
 
 (At the very bottom of the page, **BEFORE**  "exit 0" add:
 
@@ -164,12 +166,14 @@ Then do CTRL + X to finish editing and press Y to validate.
 </div>
 
 ----------------------------------------------------------------------------------
-
-Then do CTRL + X to finish editing and press Y to validate.
+<div class="docs-alert info">
+  <i class="icon fas fa-greater-than-equal"></i>
+  <p>Then do CTRL + X to finish editing and press Y to validate.</p>
+</div>
 
 1. sudo reboot
 
-![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_16.png)
+![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_16.png)
 
 
 Once restart the screen and the sound should work, but not the joystick, and the buttons
@@ -178,8 +182,8 @@ Once restart the screen and the sound should work, but not the joystick, and the
 
 Installation of "mk_arcade_joystick_rpi":
 
-![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_17.png)
-![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_19.png)![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_20.png)![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_21.png)![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_22.png)![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_23.png)![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_24.png)
+![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_17.png)
+![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_19.png)![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_20.png)![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_21.png)![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_22.png)![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_23.png)![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_24.png)
 
 
 Then restart the console
@@ -194,7 +198,7 @@ Then look at the chip address:
 
 1. sudo i2cdetect -y 1
 
-![image alt text](https://retrobox.happyblocks.info/project/Image/manual/RetroPie/FR/image_25.png)
+![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_25.png)
 
 So you have a value equal to 0x20 (Note this is important)
 

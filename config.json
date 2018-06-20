@@ -4,20 +4,24 @@
       "name": "Français",
       "home": {
         "slug": "home",
-        "name": "Bienvenue"
+        "name": "Accueil"
       },
       "tree": [{
+          "type": "page",
+          "slug": "getting-started",
+          "name": "Pour commencer"
+        },{
         "type": "page",
-        "slug": "technical-specification",
-        "name": "Spécifications techniques"
+        "slug": "assemblage",
+        "name": "Soudure des composants"
+      },{
+        "type": "page",
+        "slug": "finishing",
+        "name": "Finition"
       }, {
         "type": "page",
-        "slug": "getting-started",
-        "name": "Pour commencer"
-      }, {
-        "type": "page",
-        "slug": "manual-installation",
-        "name": "Installation manuelle"
+        "slug": "installation",
+        "name": "Installation"
       }, {
         "type": "page",
         "slug": "questions",
@@ -26,6 +30,14 @@
         "type": "page",
         "slug": "troubleshouting",
         "name": "Problèmes recurrents"
+      }, {
+        "type": "page",
+        "slug": "manual-installation",
+        "name": "Installation manuelle"
+      }, {
+        "type": "page",
+        "slug": "technical-specification",
+        "name": "Spécifications techniques"
       }]
     },
     {
@@ -33,23 +45,33 @@
       "name": "English",
       "home": {
         "slug": "home",
-        "name": "Welcome"
+        "name": "Home"
       },
       "tree": [{
-        "slug": "technical-specification",
-        "name": "Technical specification"
-      }, {
         "slug": "getting-started",
-        "name": "Getting Started"
+        "name": "Start with Retrobox"
+      },{
+        "slug": "assemblage",
+        "name": "Soldering the composants"
+      },{
+        "slug": "finishing",
+        "name": "Finishing"
       }, {
-        "slug": "manual-installation",
-        "name": "Manual installation"
+        "type": "page",
+        "slug": "installation",
+        "name": "Installation"
       }, {
         "slug": "questions",
         "name": "Questions"
       }, {
         "slug": "troubleshouting",
         "name": "Troubleshouting"
+      }, {
+        "slug": "manual-installation",
+        "name": "Manual installation"
+      }, {
+        "slug": "technical-specification",
+        "name": "Technical specification"
       }]
     }
   ]
