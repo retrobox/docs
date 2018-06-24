@@ -375,9 +375,9 @@ C'est simplement des boutons, comme pour votre lumière, ils servent pour Start,
 <img src="https://static.retrobox.tech/img/composants/6x6_Button.png">
 </div>
 
-<div class="docs-section">
-
 <h3 class="dividing">Bouton 12x12mm</h3>
+
+<div class="docs-section">
 <div>
 C'est les mêmes boutons que les 6x6mm, sauf qu'ils sont plus gros ! Ils servent pour A, B, X, Y.
 </div>

@@ -22,13 +22,13 @@ Nous sommes désolé mais RecalBox, n'est désormais plus supporté par RetroBox
 
 ### Qu'apprendrez vous avec Retrobox ?
 
-* Comment souder
-* La base de l'électronique et les fonctions des composants
-* Des notions Linux
-* La création de vos propres jeux
-* L'existence de certain jeux... inconnue au grand publique
+- Comment souder
+- La base de l'électronique et les fonctions des composants
+- Des notions Linux
+- La création de vos propres jeux
+- L'existence de certain jeux... inconnue au grand publique
 
 <div class="docs-alert info">
   <i class="icon fas fa-shopping-cart"></i>
-  <p> Alors ? Qu'attendez vous ?</p>
+  <p>Alors ? Qu'attendez vous ?</p>
 </div>
