@@ -27,5 +27,8 @@ Nous sommes désolé mais RecalBox, n'est désormais plus supporté par RetroBox
 * Des notions Linux
 * La création de vos propres jeux
 * L'existence de certain jeux... inconnue au grand publique
-<br>
- Alors ? Qu'attendez vous ?
+
+ <div class="docs-alert info">
+   <i class="icon fas fa-shopping-cart"></i>
+   <p> Alors ? Qu'attendez vous ?</p>
+ </div>

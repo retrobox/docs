@@ -190,7 +190,6 @@ Carte SD 8gb
 1
 </div>
 </div>
-</div>
 
 <div class="list-row">
 <div>
@@ -198,7 +197,6 @@ PAM8403 Amplificateur
 </div>
 <div>
 1
-</div>
 </div>
 </div>
 
@@ -210,7 +208,6 @@ Micro USB Female CMS
 1
 </div>
 </div>
-</div>
 
 <div class="list-row">
 <div>
@@ -218,7 +215,6 @@ Sachet zip
 </div>
 <div>
 3
-</div>
 </div>
 </div>
 
@@ -230,7 +226,6 @@ Dissipateur
 1
 </div>
 </div>
-</div>
 
 <div class="list-row">
 <div>
@@ -238,7 +233,6 @@ USB Female Type A
 </div>
 <div>
 1
-</div>
 </div>
 </div>
 
@@ -250,7 +244,6 @@ Led 3mm
 1
 </div>
 </div>
-</div>
 
 <div class="list-row">
 <div>
@@ -258,7 +251,6 @@ Speaker 8 Ohm 1W
 </div>
 <div>
 1
-</div>
 </div>
 </div>
 
@@ -270,7 +262,6 @@ Speaker 8 Ohm 1W
 4
 </div>
 </div>
-</div>
 
 <div class="list-row">
 <div>
@@ -278,7 +269,6 @@ Boutons angles droits 12x12
 </div>
 <div>
 2
-</div>
 </div>
 </div>
 
@@ -290,7 +280,6 @@ Capuchons pour bouton 6x6
 3
 </div>
 </div>
-</div>
 
 <div class="list-row">
 <div>
@@ -300,8 +289,6 @@ Entretoise en nylon
 8
 </div>
 </div>
-</div>
-
 
 <div class="list-row">
 <div>
@@ -309,7 +296,6 @@ Chargeur 5V
 </div>
 <div>
 1
-</div>
 </div>
 </div>
 
@@ -321,7 +307,6 @@ RetroBox PCB
 1
 </div>
 </div>
-</div>
 
 <div class="list-row">
 <div>
@@ -329,7 +314,6 @@ Plexiglass
 </div>
 <div>
 2
-</div>
 </div>
 </div>
 
@@ -341,7 +325,6 @@ Boîte Noire
 1
 </div>
 </div>
-</div>
 
 <div class="list-row">
 <div>
@@ -349,7 +332,6 @@ Raspberry Pi 0 W
 </div>
 <div>
 1
-</div>
 </div>
 </div>
 
@@ -362,10 +344,13 @@ Flyers
 </div>
 </div>
 </div>
-
+<br>
 *Update du 17/06/18*
 
-Si tout est ok, parfait, vous pouvez commencer l'assemblage !
+<div class="docs-alert info">
+  <i class="icon fas fas fa-forward"></i>
+  <p>Si tout est ok, parfait, vous pouvez commencer l'assemblage !</p>
+</div>
 
 ## Description complète des composants
 
@@ -390,17 +375,8 @@ C'est simplement des boutons, comme pour votre lumière, ils servent pour Start,
 <img src="https://static.retrobox.tech/img/composants/6x6_Button.png">
 </div>
 
-<h3 class="dividing">Resistances de 10k</h3>
-
-<div class="docs-section">
-<div>
-Celle ci servent de pull-up pour le joystick, 5V = 1 ; 0V= 0/. La raspberry compare le courant du pin.
-</div>
-<img src="https://static.retrobox.tech/img/composants/10KRESISTOR.png">
-</div>
-
 <h3 class="dividing">Bouton 12x12mm</h3>
-
+<div>
 C'est les mêmes boutons que les 6x6mm, sauf qu'ils sont plus gros ! Ils servent pour A, B, X, Y.
 </div>
 <img src="https://static.retrobox.tech/img/composants/12x12_Button.png">
@@ -550,22 +526,34 @@ le Raspberry Pi est le coeur de la console, il gère tous, avec ces 1ghz de proc
 <img src="https://static.retrobox.tech/img/composants/RASPBERRY.png">
 </div>
 
-<h3 class="dividing">Resistance</h3>
+<h3 class="dividing">Résistances</h3>
 
 <div class="docs-section">
 <div>
-efefefefef
-</div>
-<img src="https://static.retrobox.tech/img/composants/RESISTOR1.png">
+Une résistance en éléctronique, est utilisé pour réguler l'intensité d'un composant (Comme une led), elle se mesure en ohms, signe de l'omega grec. Vous pouvez déterminer la résistance du composant avec un tableau de valeurs.
+
+**Il y a trois type de résistances utilisées dans la RetroBox :**
+<br>
+* **Plusieurs résistances de 10k ohms**
+Celle ci servent de pull-up pour le joystick, 5V = 1 ; 0V= 0/. La raspberry compare le courant du pin.
+**Le code couleur** : Marron, Noir, Orange, or
+
+* **Plusieurs résistances de 150 ohms**
+Celle-ci sert au filtre passe-bas, pour avoir un son de meilleur qualité.
+**Le code couleur** : Marron, Vert, Marron, or
+
+* **Plusieurs résistances de 270 ohms**
+Idem de celle de 150 ohms, deux types de résistances est utilisé.
+**Le code couleur** : Rouge, Violet, Marron, Or
+
+<div class="docs-alert info">
+  <i class="icon fas fas fa-forward"></i>
+  <p>Petit tips : Pour lire les valeurs d'une resistance, il vous suffit de regarder sur le tableau les couleurs ou d'utiliser des outils en ligne comme celui ci : [digikey.fr](https://www.digikey.fr/fr/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band "Calculateur en ligne")</p>
 </div>
 
-<h3 class="dividing">Resistance</h3>
-
-<div class="docs-section">
-<div>
-fefefefef
 </div>
-<img src="https://static.retrobox.tech/img/composants/RESISTOR2.png">
+<img src="https://static.retrobox.tech/img/composants/ALLRESISTORS.png">
+<img src="https://www.positron-libre.com/cours/electronique/resistances/images/code-couleur-resistance.png">
 </div>
 
 <h3 class="dividing">Bouton 12x12mm à angle droit</h3>
@@ -633,5 +621,5 @@ Vous voulez jouer entre amis ? Branchez-y vos manettes dessus ! Ou même des cl�
 
 <div class="docs-alert info">
   <i class="icon fas fas fa-forward"></i>
-  <p>Après avoir faite cette petite présentation des composants de la console, vous alelz pouvoir commencer l'assemblage en cliquant sur suivant !</p>
+  <p>Après avoir faite cette petite présentation des composants de la console, vous allez pouvoir commencer l'assemblage en cliquant sur suivant !</p>
 </div>
