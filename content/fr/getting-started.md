@@ -1,4 +1,4 @@
-<h3 class="dividing"><div class="image-header">
+<div class="image-header">
 	<img src="https://i.imgur.com/32ObfXb.png"/>
 </div>
 
