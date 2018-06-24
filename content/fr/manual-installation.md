@@ -36,7 +36,7 @@
 
 * Soyez patient, cela peut prendre du temps
 
-* Si vous avez le moindre problème contactez nous ! (Sur notre site ou par e-mail : contact@retrobox.tech )
+* Si vous avez le moindre problème contactez nous ! (Sur notre site ou par e-mail : support@retrobox.tech )
 
 ## Partie sur ordinateur
 
@@ -56,7 +56,7 @@
 
 * Vous avez plusieurs façon de configurer un réseau wifi :
 
-![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_6.png)![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_4.png)![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_5.png)
+![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_6.png) ![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_4.png) ![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_5.png)
 
 * Avec le fichier "wifikeyfile.txt", vous avez juste à l’importer dans le menu (enregistrer sous /boot/wifikeyfile.txt)				
 
@@ -64,7 +64,7 @@
 
 * En branchant un clavier
 
-![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_9.png)![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_8.png)![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_10.png)
+![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_9.png) ![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_8.png) ![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_10.png)
 
 * Aller dans "Raspi-Config", puis dans Connexion, puis activer le SSH
 

@@ -41,7 +41,6 @@ ______
 
 * Simulation 3D de la console : https://github.com/retrobox/misc/tree/master/3d
 
-![image alt text](https://static.retrobox.tech/img/hardware-specifications/image_5.png)
 <div class="docs-alert info">
   <i class="icon fas fa-question-circle"></i>
   <p> Pour ouvrir le fichier STL, vous devez utiliser un logiciel de CAO tel que: Autocad; Design Spark; SolidWorks; Catia</p>
