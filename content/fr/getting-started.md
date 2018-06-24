@@ -375,6 +375,8 @@ C'est simplement des boutons, comme pour votre lumière, ils servent pour Start,
 <img src="https://static.retrobox.tech/img/composants/6x6_Button.png">
 </div>
 
+<div class="docs-section">
+
 <h3 class="dividing">Bouton 12x12mm</h3>
 <div>
 C'est les mêmes boutons que les 6x6mm, sauf qu'ils sont plus gros ! Ils servent pour A, B, X, Y.
@@ -540,20 +542,20 @@ Celle ci servent de pull-up pour le joystick, 5V = 1 ; 0V= 0/. La raspberry comp
 
 * **Plusieurs résistances de 150 ohms**
 Celle-ci sert au filtre passe-bas, pour avoir un son de meilleur qualité.
-**Le code couleur** : Marron, Vert, Marron, or
+**Le code couleur** : Marron, Vert, Noir, or
 
 * **Plusieurs résistances de 270 ohms**
 Idem de celle de 150 ohms, deux types de résistances est utilisé.
 **Le code couleur** : Rouge, Violet, Marron, Or
 
 <div class="docs-alert info">
-  <i class="icon fas fas fa-forward"></i>
+  <i class="icon fas fa-angle-double-up"></i>
   <p>Petit tips : Pour lire les valeurs d'une resistance, il vous suffit de regarder sur le tableau les couleurs ou d'utiliser des outils en ligne comme celui ci : [digikey.fr](https://www.digikey.fr/fr/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band "Calculateur en ligne")</p>
 </div>
 
 </div>
-<img src="https://static.retrobox.tech/img/composants/ALLRESISTORS.png">
 <img src="https://www.positron-libre.com/cours/electronique/resistances/images/code-couleur-resistance.png">
+<img src="https://static.retrobox.tech/img/composants/ALLRESISTORS.png">
 </div>
 
 <h3 class="dividing">Bouton 12x12mm à angle droit</h3>
