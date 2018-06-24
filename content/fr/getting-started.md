@@ -8,11 +8,7 @@ Pour commander une RetroBox avec quelques accessoires, dirigez-vous vers la bout
 
 Pendant que vous attendez que votre RetroBox arrive, vous pouvez commencer a regrouper le matériel nécessaire pour le montage de la console et lire le manuel.
 
-* Un fer à souder, avec de l'étain
-* Un tournevis cruciforme, une pince coupante,
-* De la patience
-<br>
-Temps estimé au montage ~ 3h - 4h
+Temps estimé au montage **~ 3h - 4h**
 
 ## Première étape: Ouverture de la boîte et vérification
 
@@ -533,29 +529,29 @@ le Raspberry Pi est le coeur de la console, il gère tous, avec ces 1ghz de proc
 <div class="docs-section">
 <div>
 Une résistance en éléctronique, est utilisé pour réguler l'intensité d'un composant (Comme une led), elle se mesure en ohms, signe de l'omega grec. Vous pouvez déterminer la résistance du composant avec un tableau de valeurs.
-
-**Il y a trois type de résistances utilisées dans la RetroBox :**
-<br>
-* **Plusieurs résistances de 10k ohms**
-Celle ci servent de pull-up pour le joystick, 5V = 1 ; 0V= 0/. La raspberry compare le courant du pin.
-**Le code couleur** : Marron, Noir, Orange, or
-
-* **Plusieurs résistances de 150 ohms**
-Celle-ci sert au filtre passe-bas, pour avoir un son de meilleur qualité.
-**Le code couleur** : Marron, Vert, Noir, or
-
-* **Plusieurs résistances de 270 ohms**
-Idem de celle de 150 ohms, deux types de résistances est utilisé.
-**Le code couleur** : Rouge, Violet, Marron, Or
+<br />
+**Il y a trois type de résistances utilisées dans la RetroBox :**<br />
+<br />
+**Plusieurs résistances de 10k ohms**<br />
+Celle ci servent de pull-up pour le joystick, 5V = 1 ; 0V= 0/. La raspberry compare le courant du pin.<br />
+**Le code couleur** : Marron, Noir, Orange, or <br />
+<br />
+**Plusieurs résistances de 150 ohms**<br />
+Celle-ci sert au filtre passe-bas, pour avoir un son de meilleur qualité.<br />
+**Le code couleur** : Marron, Vert, Noir, or <br />
+<br />
+**Plusieurs résistances de 270 ohms**<br />
+Idem de celle de 150 ohms, deux types de résistances est utilisé.<br />
+**Le code couleur** : Rouge, Violet, Marron, Or <br />
+<br />
+</div>
+<img src="https://www.positron-libre.com/cours/electronique/resistances/images/code-couleur-resistance.png">
+<img src="https://static.retrobox.tech/img/composants/ALLRESISTORS.png">
+</div>
 
 <div class="docs-alert info">
   <i class="icon fas fa-angle-double-up"></i>
   <p>Petit tips : Pour lire les valeurs d'une resistance, il vous suffit de regarder sur le tableau les couleurs ou d'utiliser des outils en ligne comme celui ci : [digikey.fr](https://www.digikey.fr/fr/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band "Calculateur en ligne")</p>
-</div>
-
-</div>
-<img src="https://www.positron-libre.com/cours/electronique/resistances/images/code-couleur-resistance.png">
-<img src="https://static.retrobox.tech/img/composants/ALLRESISTORS.png">
 </div>
 
 <h3 class="dividing">Bouton 12x12mm à angle droit</h3>
