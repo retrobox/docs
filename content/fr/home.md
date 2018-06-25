@@ -6,7 +6,7 @@
 
 La RetroBox est une console portative, open-source qui tourne sur RetroPie, et vous permet de rejouez à tous les jeux de votre enfance, avec son autonomie d'environ 7 heures, vous ne saurais plus vous arrêtez !
 Projet en cours de construction, les pré commandes seront ouvertes le 29 juin.
-
+<br>
 Nous sommes désolé mais RecalBox, n'est désormais plus supporté par RetroBox.
 
 ### Fonctionnalitées
@@ -22,10 +22,13 @@ Nous sommes désolé mais RecalBox, n'est désormais plus supporté par RetroBox
 
 ### Qu'apprendrez vous avec Retrobox ?
 
-* Comment souder
-* La base de l'électronique et les fonctions des composants
-* Des notions Linux
-* La création de vos propres jeux
-* L'existence de certain jeux... inconnue au grand publique
+- Comment souder
+- La base de l'électronique et les fonctions des composants
+- Des notions Linux
+- La création de vos propres jeux
+- L'existence de certain jeux... inconnue au grand publique
 
- Alors ? Qu'attendez vous ?
+<div class="docs-alert info">
+  <i class="icon fas fa-shopping-cart"></i>
+  <p>Alors ? Qu'attendez vous ?</p>
+</div>

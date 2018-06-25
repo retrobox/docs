@@ -9,7 +9,7 @@ Si vous voulez tout installer (compétences sur Linux nécessaires)
 
 * Recalbox : [Manual](manual-installation-recalbox) (Attention, n'est plus supporté)
 
-* Retropie :  [Manual](manual-installation)
+* Retropie : [Manual](manual-installation)
 
 * Si vous voulez juste graver l'image sur la carte SD, aucune configuration est nécessaire
 
