@@ -1,6 +1,7 @@
 <div class="image-header">
-	<img src="https://i.imgur.com/32ObfXb.png"/>
+	<img src="https://static.retrobox.tech/img/logo/illustration.png"/>
 </div>
+
 
 ## Matériels
 
@@ -173,7 +174,8 @@ Tout en bas de la page, **AVANT** "exit 0" rajoutez :
   <p>Puis faîtes CTRL + X pour finir l’édition puis appuyez sur Y pour valider.</p>
 </div>
 
-1. sudo reboot
+1. ```bash
+sudo reboot```
 
 ![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_16.png)
 
@@ -183,7 +185,7 @@ Une fois redémarré, l’écran et le son devrait fonctionner, mais pas le joys
 
 Installation de "mk_arcade_joystick_rpi":
 
-![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_17.png)![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_19.png)![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_20.png)![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_21.png)![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_22.png)![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_23.png)![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_24.png)
+![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_17.png) ![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_19.png) ![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_20.png) ![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_21.png) ![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_22.png) ![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_23.png) ![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_24.png)
 
 Puis redémarrez la console.
 
@@ -191,11 +193,13 @@ Reconnectez vous sur le PI avec Putty puis exécuter les commandes suivantes :
 
 Installation de I2C Detect :
 
-1. sudo apt-get install i2c-tools
+1. ```bash
+sudo apt-get install i2c-tools```
 
 Puis regardez l’adresse du chip :
 
-1. sudo i2cdetect -y 1
+1. ```bash
+sudo i2cdetect -y 1```
 
 ![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_25.png)
 

@@ -1,6 +1,7 @@
 <div class="image-header">
-	<img src="https://i.imgur.com/32ObfXb.png"/>
+	<img src="https://static.retrobox.tech/img/logo/illustration.png"/>
 </div>
+
 
 ## Après avoir monté votre console :
 
@@ -29,7 +30,7 @@ Si vous avez des erreurs, dites-le nous et nous vous aiderons! `(support@retrobo
 
 ## Deuxième étape: L'application, installation de Retropie
 
-![image alt text](https://static.retrobox.tech/img/image_3.png) ![image alt text](https://static.retrobox.tech/img/image_4.png)
+![image alt text](https://static.retrobox.tech/img/getting-started/RetroPie/image_3.png) ![image alt text](https://static.retrobox.tech/img/getting-started/RetroPie/image_4.png)
 
 SCREENSHOT, avec explication
 

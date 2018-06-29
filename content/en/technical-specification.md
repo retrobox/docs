@@ -1,6 +1,7 @@
 <div class="image-header">
-	<img src="https://i.imgur.com/32ObfXb.png"/>
+	<img src="https://static.retrobox.tech/img/logo/illustration.png"/>
 </div>
+
 
 ## Specifications
 
@@ -36,7 +37,6 @@
   <i class="icon fas fa-question-circle"></i>
   <p> To open the project , you will need : Eagle Autodesk Premium with library</p>
 </div>
-______
 
 * 3D Simulation : https://github.com/retrobox/misc/tree/master/3d
 

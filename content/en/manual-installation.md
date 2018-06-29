@@ -1,6 +1,7 @@
 <div class="image-header">
-	<img src="https://i.imgur.com/32ObfXb.png"/>
+	<img src="https://static.retrobox.tech/img/logo/illustration.png"/>
 </div>
+
 
 ## Required
 
@@ -171,7 +172,8 @@ in SSH.
   <p>Then do CTRL + X to finish editing and press Y to validate.</p>
 </div>
 
-1. sudo reboot
+1. ```bash
+sudo reboot```
 
 ![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_16.png)
 
@@ -183,7 +185,7 @@ Once restart the screen and the sound should work, but not the joystick, and the
 Installation of "mk_arcade_joystick_rpi":
 
 ![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_17.png)
-![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_19.png)![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_20.png)![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_21.png)![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_22.png)![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_23.png)![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_24.png)
+![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_19.png) ![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_20.png) ![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_21.png) ![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_22.png) ![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_23.png) ![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_24.png)
 
 
 Then restart the console
@@ -192,11 +194,13 @@ Reconnect to the PI with Putty then execute the following commands:
 
 Installation of I2C Detect:
 
-1. sudo apt-get install i2c-tools
+1. ```bash
+sudo apt-get install i2c-tools```
 
 Then look at the chip address:
 
-1. sudo i2cdetect -y 1
+1. ```bash
+sudo i2cdetect -y 1```
 
 ![image alt text](https://static.retrobox.tech/img/manual/RetroPie/FR/image_25.png)
 

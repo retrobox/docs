@@ -1,8 +1,7 @@
-<div align="center" color="#0094D2">
-			<img src="https://i.imgur.com/32ObfXb.png"/>
-		<br>
-	<br>
+<div class="image-header">
+	<img src="https://static.retrobox.tech/img/logo/illustration.png"/>
 </div>
+
 
 
 # Installation manuelle de RecalBox sur RetroBox
