@@ -1,6 +1,7 @@
 <div class="image-header">
-	<img src="https://i.imgur.com/32ObfXb.png"/>
+	<img src="https://static.retrobox.tech/img/logo/illustration.png"/>
 </div>
+
 
 ### The project
 
@@ -20,4 +21,15 @@ We are sorry but RecalBox, is no longer supported by RetroBox.
 - An ultra-provided wiki
 - A staff always at your help
 
-  So ? What are you waiting for?
+### What will you learn with Retrobox?
+
+- How to weld
+- The basis of electronics and the functions of components
+- Linux concepts
+- Creating your own games
+- The existence of certain games ... unknown to the general public
+
+<div class = "docs-alert info">
+   <i class = "icon fas fa-shopping-cart"> </i>
+   <p> So? What are you waiting for? </p>
+</div>

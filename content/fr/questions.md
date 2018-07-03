@@ -1,6 +1,7 @@
 <div class="image-header">
-	<img src="https://i.imgur.com/32ObfXb.png"/>
+	<img src="https://static.retrobox.tech/img/logo/illustration.png"/>
 </div>
+
 
 ## FAQ
 
