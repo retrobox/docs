@@ -24,6 +24,14 @@ The markdown's content shouldn't contain the name of the page and shouldn't cont
 
 You can use nginx, see configuration at `nginx.conf` or if you can't, just use the nodejs server with express js by running `app.js`, CORS header are included.
 
+## Docker image
+
+The docker image is available on docker hub : `retrobox/docs`, the docker image expose on port 80.
+
+Run it (very simple):
+
+`docker run -p 42:80 -d --name retrobox.docs retrobox/docs`
+
 ## Contributing
 
 This service is managed by lefuturiste <contact@lefuturiste.fr>
