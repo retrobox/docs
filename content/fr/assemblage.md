@@ -8,7 +8,12 @@
 
 <div class="docs-section">
 <div>
-Et oui pour souder, il faut un....... fer à souder ! Un des plus basiques suffit, comme par exemple celui : [Fer à souder kit](https://www.amazon.fr/Electrique-R%C3%A9gulateur-Temp%C3%A9rature-Diff%C3%A9rents-Dessouder/dp/B072XFQS18/ref=sr_1_9?ie=UTF8&qid=1529872099&sr=8-9&keywords=fer+%C3%A0+souder) C'est un kit avec tous les élements nécessaires.
+Et oui pour souder, il faut un....... fer à souder ! Un des plus basiques suffit, comme par exemple celui : 
+
+[Fer à souder kit](https://www.amazon.fr/Electrique-R%C3%A9gulateur-Temp%C3%A9rature-Diff%C3%A9rents-Dessouder/dp/B072XFQS18/ref=sr_1_9?ie=UTF8&qid=1529872099&sr=8-9&keywords=fer+%C3%A0+souder) 
+
+C'est un kit avec tous les élements nécessaires.
+
 </div>
 <img src="https://static.retrobox.tech/img/materials/SOLDERINGIRON.png">
 </div>
