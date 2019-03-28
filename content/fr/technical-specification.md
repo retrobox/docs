@@ -25,9 +25,9 @@
 
 ## Schémas / modèle 3D
 
-![image alt text](https://static.retrobox.tech/img/firstreleasepcb.png)
+![image alt text](https://static.retrobox.tech/img/pcb/board.png)
 
-![image alt text](https://static.retrobox.tech/img/firstreleaseschema.png)
+![image alt text](https://static.retrobox.tech/img/pcb/schematics.png)
 
 * Eagles project : https://github.com/RetroBox/misc/tree/master/pcb
 
