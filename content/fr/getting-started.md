@@ -13,19 +13,19 @@ Bienvenue dans le monde de Retrobox !
 
 Une fois que vous avez reçu votre colis, il est possible que nous avons oublié un composant, (nous sommes humains, mais je vous rassure cela n'arrive pratiquement jamais) si c'est le cas, contactez nous, nous vous réexpidrons le composant manquant gratuitement, contactez nous : support@retrobox.tech)
 
-[![](https://makerbuino.com/wp-content/uploads/2017/04/36259742985_9dccf2f6a2_k_1280x851.png)](http://makerbuino.com/wp-content/uploads/2017/04/36259742985_9dccf2f6a2_k_1280x851.png)
+![](https://static.retrobox.tech/img/box.jpg)
 
-[![](https://makerbuino.com/wp-content/uploads/2017/08/DSC05243_800x533.png)](http://makerbuino.com/wp-content/uploads/2017/08/DSC05243_800x533.png)
+![](https://makerbuino.com/wp-content/uploads/2017/08/DSC05243_800x533.png)](http://makerbuino.com/wp-content/uploads/2017/08/DSC05243_800x533.png)
 
 # Quelques images
 
 Voici donc le schéma de votre console, si vous ne comprenez pas grand chose, pas d'inquiétude vous allez tout apprendre en montant votre console !
 
- [![](https://static.retrobox.tech/img/pcb/schematics.png)
+![](https://static.retrobox.tech/img/pcb/schematics.png)
 
 Vous trouverez aussi ce diagramme utile :
 
- [![](https://makerbuino.com/wp-content/uploads/2017/04/diagram4-01_1123x800-e1501491985246.png)](http://makerbuino.com/wp-content/uploads/2017/04/diagram4-01_1123x800-e1501491985246.png)
+![](https://makerbuino.com/wp-content/uploads/2017/04/diagram4-01_1123x800-e1501491985246.png)](http://makerbuino.com/wp-content/uploads/2017/04/diagram4-01_1123x800-e1501491985246.png)
 
 # Liste des composants
 
