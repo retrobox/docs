@@ -29,13 +29,9 @@
 
 ![image alt text](https://static.retrobox.tech/img/pcb/schematics.png)
 
-* Eagles project : https://github.com/RetroBox/misc/tree/master/pcb
-
-![image alt text](thttps://static.retrobox.tech/img/hardware-specifications/image_4.png)
-
 <div class="docs-alert info">
   <i class="icon fas fa-question-circle"></i>
-  <p>Pour ouvrir les schémas, vous devez utilisez Eagle Autodesk</p>
+  <p>Les fichiers Eagles ne sont pas disponibles au téléchargements.</p>
 </div>
 
 ______
@@ -59,22 +55,21 @@ Plexiglass version : https://github.com/RetroBox/misc/tree/master/3d
 
 |  Pièces | Quantité |  Pièces | Quantité |
 |  ------ | ------ |  ------ | ------ |
-|  - Ecran 3,2 inch | 1 |  - PAM8403 | 1 |
-|  - Joystik Thumb	| 1 |  - Micro USB Female CMS | 1 |
-|  - DD06CVSA Charger | 1 |  - Sachet zip | 1 |
-|  - Mini HDMI to HDMI + USB OTG	| 1 |  - Heatsink | 1 |
-|  - Button momentary 6x6x12	| 3 |  - USB Female Type A | 1 |
-|  - Jack 3,5 | 1 |  - Led 3mm | 1 |
-|  - Slide Switch SK12D07 | 1 |  - Speaker 8 Ohm 1W | 1 |
+|  - Ecran 3,2 inch | 1 |  - PAM8403 Amplificateur 3w | 1 |
+|  - Joystik avec capuchon	| 1 |  - Micro USB Female CMS | 1 |
+|  - DD06CVSA Chargeur pour la batterie | 1 |  - Plusieurs bouts de scotch | 4 |
+|  - Mini HDMI to HDMI + USB OTG	| 1 |  - Dissipateur | 1 |
+|  - Bouttons 6x6x12mm	| 3 |  - USB Female Type A | 1 |
+|  - Jack 3,5mm | 1 |  - Led 3mm Verte | 1 |
+|  - Bouton on/off SK12D07 | 1 |  - Enceinte 8 Ohm 1W | 1 |
 |  - MCP23017 GPIO	| 1 |  - 12x12 Button Momentary | 4 |
 |  - 10K ohm resistor | 4 |	 - Right Angle 12x12 | 2 |		
 |  - LM339 Quad Voltage Comparator	| 1 |  - Cap 6x6 Button | 3 |
 |  - 10k Potentiometers | 1 |  - Entretoise en nylon | 8 |
-|  - Lithium Battery 3000mAh	| 1 |  - Chargeur 5V | 1 |
+|  - Lithium Battery 3,7v 3000mAh	| 1 |  - Chargeur 5V | 1 |
 |  - 0,01µf Capacitor FILM	| 2 |  - PCB | 1 |
 |  - 10µf Capacitor | 2 |  - Plexiglass | 2 |
-|  - 270 Ohm Resistor | 2 |  - Boîte Noire | 1 |
+|  - 270 Ohm Resistor | 2 |  - Boîte | 1 |
 |  - 150 Ohm Resistor | 2 |  - Raspberry Pi 0 W | 1 |
-|  - Carte SD 8gb | 1 |  - Flyers | 1 |
-
-*Update du 17/06/18*
+|  - Carte SD Sandisk 16go | 1 |  - Flyers | 1 |
+|  - Deux petits support plaqué or | 2 |  |  |
