@@ -15,7 +15,7 @@ Une fois que vous avez reçu votre colis, il est possible que nous avons oublié
 
 ![](https://static.retrobox.tech/img/box.jpg)
 
-![](https://makerbuino.com/wp-content/uploads/2017/08/DSC05243_800x533.png)](http://makerbuino.com/wp-content/uploads/2017/08/DSC05243_800x533.png)
+![](https://makerbuino.com/wp-content/uploads/2017/08/DSC05243_800x533.png)
 
 # Quelques images
 
@@ -25,7 +25,7 @@ Voici donc le schéma de votre console, si vous ne comprenez pas grand chose, pa
 
 Vous trouverez aussi ce diagramme utile :
 
-![](https://makerbuino.com/wp-content/uploads/2017/04/diagram4-01_1123x800-e1501491985246.png)](http://makerbuino.com/wp-content/uploads/2017/04/diagram4-01_1123x800-e1501491985246.png)
+![](https://makerbuino.com/wp-content/uploads/2017/04/diagram4-01_1123x800-e1501491985246.png)
 
 # Liste des composants
 
@@ -584,7 +584,7 @@ Idem de celle de 150 ohms, deux types de résistances est utilisé.<br />
 
 <div class="docs-alert info">
   <i class="icon fas fa-angle-double-up"></i>
-  <p>Petit tips : Pour lire les valeurs d'une resistance, il vous suffit de regarder sur le tableau les couleurs ou d'utiliser des outils en ligne comme celui ci : <a href="https://www.digikey.fr/fr/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band">digikey.fr</a> </p>
+  <p>Petit tips : Pour lire les valeurs d'une resistance, il vous suffit de regarder sur le tableau les couleurs ou d'utiliser des outils en ligne comme celui ci : <a href="https://www.digikey.fr/fr/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" style="color:white">digikey.fr</a> </p>
 </div>
 
 <h3 class="dividing">Bouton 12x12mm à angle droit</h3>

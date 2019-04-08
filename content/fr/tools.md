@@ -1,11 +1,12 @@
+## Quelques notions avant de commencer...
 
-Vous avez tout bien lu , bon travail!
+Vous avez tout lu, bon travail!
 
-Certains outils et équipements sont nécessaires pour l'assemblage et ils ne sont pas inclus dans le kit standard.
+Certains outils et équipements sont nécessaires pour l'assemblage et ils ne sont pas inclus dans le kit.
 
 Ces outils sont utiles lors de l’assemblage, de la fixation ou de la modification de d'objets électroniques.
 
-Beaucoup d’entre eux sont disponibles dans les supermarchés ou dans certains magasins d’électronique de bricolage professionnels tels que Radio Shack, Adafruit, Sparkfun….
+Beaucoup d’entre eux sont disponibles dans les supermarchés ou dans certains magasins d’électronique de bricolage professionnels tels que Radio Shack, Adafruit, Sparkfun, Amazon, eBay….
 
 
 ## Les outils nécessaires à l'assemblage

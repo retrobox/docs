@@ -36,8 +36,6 @@
         "slug": "troubleshouting",
         "name": "Problèmes recurrents"
       }, {
-        "type": "divider"
-      }, {
         "type": "page",
         "slug": "manual-installation",
         "name": "Installation manuelle"
