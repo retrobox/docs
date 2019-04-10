@@ -1,4 +1,5 @@
 
+
 ## Achetez une RetroBox
 
 Pour commander une RetroBox avec quelques accessoires, dirigez-vous vers la boutique [RetroBox Shop](https://retrobox.tech/shop).
@@ -386,7 +387,7 @@ La PCB est une plaque qui a elle seule supporte tous les composants !
 C'est juste une plaque avec des fils en cuivres pré-intégrés.  
 Cela permet d'avoir un beau rendu et de qualité. Petit tips, vous voyer souvent les carte éléctroniques en verte, et bien on peut mettre les couleurs sue l'on veut ! C'est juste pour protèger le cuivre...
 </div>
-<img src="https://static.retrobox.tech/img/composants/PCB.png">
+<img src="https://static.retrobox.tech/img/composants/pcb.png">
 </div>
 
 <h3 class="dividing">Bouton 6x6mm</h3>
@@ -395,7 +396,7 @@ Cela permet d'avoir un beau rendu et de qualité. Petit tips, vous voyer souvent
 <div>
 C'est simplement des boutons, comme pour votre lumière, ils servent pour Start, Select et Restart.
 </div>
-<img src="https://static.retrobox.tech/img/composants/6x6_Button.png">
+<img src="https://static.retrobox.tech/img/composants/boutons.png">
 </div>
 
 <h3 class="dividing">Bouton 12x12mm</h3>
@@ -422,7 +423,7 @@ C'est une résistance variable de 10k ohm pour le son, il dissipe le signal par 
 <div>
 Cela permet de joeur sur grand écrans ! Comme la convention habituel des ports HDMI sont gros, celui de la raspberry pi étant trop petit, nous avons besoin d'un adaptateur, branchez le à votre TV et démarrez la console !
 </div>
-<img src="https://static.retrobox.tech/img/composants/HDMI.png">
+<img src="https://static.retrobox.tech/img/composants/hdmi.png">
 </div>
 
 <h3 class="dividing">Dissipateur thermique</h3>
@@ -458,7 +459,7 @@ Cette prise jack de 3.5mm laisse place a une sortie casque, lorsque vous le bran
 <div>
 Le joystick permet de contrôler la console, comme il est analog, nous avons besoin d'avoir un signal digital, c'est pour cela que le LM339 est là !
 </div>
-<img src="https://static.retrobox.tech/img/composants/JOYSTICK.png">
+<img src="https://static.retrobox.tech/img/composants/joystick.png">
 </div>
 
 <h3 class="dividing">LED 3mm</h3>
@@ -467,7 +468,7 @@ Le joystick permet de contrôler la console, comme il est analog, nous avons bes
 <div>
 Elle indique lorsque la console est en marche ou pas.
 </div>
-<img src="https://static.retrobox.tech/img/composants/LED.png">
+<img src="https://static.retrobox.tech/img/composants/led.png">
 </div>
 
 <h3 class="dividing">LM339</h3>
@@ -494,16 +495,16 @@ Ce chargeur micro-USB 5v, permet de charger la console a vitesse grand V ! Fonct
 <div>
 Il sert pour le filtre passe-bas de la console, pour avoir un meilleur son !
 </div>
-<img src="https://static.retrobox.tech/img/composants/10NFCAPACITOR.png">
+<img src="https://static.retrobox.tech/img/composants/condo2.png">
 </div>
 
 <h3 class="dividing">Condensateur 10µF</h3>
 
 <div class="docs-section">
 <div>
-Idem que le 10µF !
+Idem que le 10nF !
 </div>
-<img src="https://static.retrobox.tech/img/composants/10UFCAPACITOR.png">
+<img src="https://static.retrobox.tech/img/composants/condo.png">
 </div>
 
 <h3 class="dividing">Prise Micro-USB</h3>
@@ -548,7 +549,7 @@ C'est un petit amplificateur de classe D de 3W, cela permet un son puissant pour
 <div>
 le Raspberry Pi est le coeur de la console, il gère tous, avec ces 1ghz de processeur et 512mb de ram, on peut donc jouer avec RetroPie
 </div>
-<img src="https://static.retrobox.tech/img/composants/RASPBERRY.png">
+<img src="https://static.retrobox.tech/img/composants/raspberry.png">
 </div>
 
 <h3 class="dividing">Résistances</h3>
@@ -593,7 +594,7 @@ Idem de celle de 150 ohms, deux types de résistances est utilisé.<br />
 <div>
 Et encore des boutons, cela sont pour les actions L et R de la console.
 </div>
-<img src="https://static.retrobox.tech/img/composants/RIGHTANGLE12X12.png">
+<img src="https://static.retrobox.tech/img/composants/gachette.png">
 </div>
 
 <h3 class="dividing">Ecran de 3.2 pouces</h3>
@@ -602,7 +603,7 @@ Et encore des boutons, cela sont pour les actions L et R de la console.
 <div>
 Ce petit écran de 3.2 pouces fonctionne avec un protocole nommé SPI, ce qui nous limite sur la taille de l'écran, pour avoir du 60 FPS, le 3.5 pouces tournaient sur du 20 FPS... Injouable...
 </div>
-<img src="https://static.retrobox.tech/img/composants/SCREEN.png">
+<img src="https://static.retrobox.tech/img/composants/lcd.png">
 </div>
 
 <h3 class="dividing">Carte SD</h3>
@@ -620,7 +621,7 @@ La carte SD pré-integrée de 8GB suffit pour mettre beaucoup de jeux, assez du 
 <div>
 Et c'est le dernier boutton, le principal, il gère l'alimentation de la console, ON ou OFF, rien de plus simple !
 </div>
-<img src="https://static.retrobox.tech/img/composants/SLIDE_SWITCH.png">
+<img src="https://static.retrobox.tech/img/composants/onoff.png">
 </div>
 
 <h3 class="dividing">Entretoises</h3>
@@ -638,7 +639,7 @@ Les entretoises permettent de séparer le plexiglass de la PCB, ce qui protège 
 <div>
 Cette petit enceinte de 8 ohm et 1 W, à une puissance équivalente à une Gameboy Advance !
 </div>
-<img src="https://static.retrobox.tech/img/composants/SPEAKER.png">
+<img src="https://static.retrobox.tech/img/composants/enceinte.png">
 </div>
 
 <h3 class="dividing">Port USB type A</h3>
@@ -647,7 +648,7 @@ Cette petit enceinte de 8 ohm et 1 W, à une puissance équivalente à une Gameb
 <div>
 Vous voulez jouer entre amis ? Branchez-y vos manettes dessus ! Ou même des clès USB, Ou encore plus fou, vos téléphones pour les recharger !
 </div>
-<img src="https://static.retrobox.tech/img/composants/USb.png">
+<img src="https://static.retrobox.tech/img/composants/usb.png">
 </div>
 
 <div class="docs-alert info">
