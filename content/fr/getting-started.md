@@ -424,7 +424,7 @@ C'est une résistance variable de 10k ohm pour le son, il dissipe le signal par 
 <div>
 Cela permet de joeur sur grand écrans ! Comme la convention habituel des ports HDMI sont gros, celui de la raspberry pi étant trop petit, nous avons besoin d'un adaptateur, branchez le à votre TV et démarrez la console !
 </div>
-<img src="https://static.retrobox.tech/img/composants/hdmi.png">
+<img src="https://static.retrobox.tech/img/composants/hdmi.jpg">
 </div>
 
 <h3 class="dividing">Dissipateur thermique</h3>
@@ -460,7 +460,7 @@ Cette prise jack de 3.5mm laisse place à une sortie casque lorsque vous le bran
 <div>
 Le joystick permet de contrôler la console, comme il est analog, nous avons besoin d'avoir un signal digital, c'est pour cela que le LM339 est là !
 </div>
-<img src="https://static.retrobox.tech/img/composants/joystick.png">
+<img src="https://static.retrobox.tech/img/composants/joystick.jpg">
 </div>
 
 <h3 class="dividing">LED 3mm</h3>
@@ -469,7 +469,7 @@ Le joystick permet de contrôler la console, comme il est analog, nous avons bes
 <div>
 Elle indique lorsque la console est en marche ou pas.
 </div>
-<img src="https://static.retrobox.tech/img/composants/led.png">
+<img src="https://static.retrobox.tech/img/composants/led.jpg">
 </div>
 
 <h3 class="dividing">LM339</h3>
@@ -496,7 +496,7 @@ Ce chargeur micro-USB 5v, permet de charger la console a vitesse grand V ! Fonct
 <div>
 Il sert pour le filtre passe-bas de la console, pour avoir un meilleur son !
 </div>
-<img src="https://static.retrobox.tech/img/composants/condo2.png">
+<img src="https://static.retrobox.tech/img/composants/condo2.jpg">
 </div>
 
 <h3 class="dividing">Condensateur 10µF</h3>
@@ -505,7 +505,7 @@ Il sert pour le filtre passe-bas de la console, pour avoir un meilleur son !
 <div>
 Idem que le 10nF !
 </div>
-<img src="https://static.retrobox.tech/img/composants/condo.png">
+<img src="https://static.retrobox.tech/img/composants/condo.jpg">
 </div>
 
 <h3 class="dividing">Prise Micro-USB</h3>
@@ -595,7 +595,7 @@ Idem de celle de 150 ohms, deux types de résistances sont utilisées.<br />
 <div>
 Et encore des boutons, cela sont pour les actions L et R de la console. Un peu similaire à des gâchettes.
 </div>
-<img src="https://static.retrobox.tech/img/composants/gachette.png">
+<img src="https://static.retrobox.tech/img/composants/gachette.jpg">
 </div>
 
 <h3 class="dividing">Ecran de 3.2 pouces</h3>
@@ -604,7 +604,7 @@ Et encore des boutons, cela sont pour les actions L et R de la console. Un peu s
 <div>
 Ce petit écran de 3.2 pouces fonctionne avec un protocole nommé SPI, ce qui nous limite sur la taille de l'écran, pour avoir des 30 FPS, le 3.5 pouces était cadencé sur du 15 FPS... Injouable....
 </div>
-<img src="https://static.retrobox.tech/img/composants/lcd.png">
+<img src="https://static.retrobox.tech/img/composants/lcd.jpg">
 </div>
 
 <h3 class="dividing">Carte SD</h3>
@@ -649,7 +649,7 @@ Cette petit enceinte de 8 ohm et 1 W, à une puissance équivalente à une Gameb
 <div>
 Vous voulez jouer entre amis ? Branchez-y vos manettes dessus ! Ou même des clés USB, Ou encore plus fou, vos téléphones pour les recharger !
 </div>
-<img src="https://static.retrobox.tech/img/composants/usb.png">
+<img src="https://static.retrobox.tech/img/composants/usb.jpg">
 </div>
 
 <div class="docs-alert info">
