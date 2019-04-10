@@ -1,7 +1,3 @@
-<div class="image-header">
-	<img src="https://static.retrobox.tech/img/logo/illustration.png"/>
-</div>
-
 
 ## Après avoir monté votre console :
 
@@ -22,7 +18,7 @@ Temps estimé à l'installation ~ 0.3h - 1h
 
 Pour le moment, la dernière version est: 1.00
 
-Télécharger l'application Retrobox ici : [https://retrobox.tech/download](https://retrobox.tech/download)
+Télécharger l'application Retrobox ici : [https://retrobox.tech/download](https://retrobox.tech/downloads)
 
 ![image alt text](https://static.retrobox.tech/img/app.png)
 

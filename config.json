@@ -13,8 +13,12 @@
         "name": "Pour commencer"
       },{
         "type": "page",
+        "slug": "tools",
+        "name": "Les outils nécessaires"
+      },{
+        "type": "page",
         "slug": "assemblage",
-        "name": "Soudure des composants"
+        "name": "Assemblage de la console"
       },{
         "type": "page",
         "slug": "finishing",
@@ -22,7 +26,7 @@
       }, {
         "type": "page",
         "slug": "installation",
-        "name": "Installation"
+        "name": "Installation et premier démarrage"
       }, {
         "type": "page",
         "slug": "questions",
@@ -31,8 +35,6 @@
         "type": "page",
         "slug": "troubleshouting",
         "name": "Problèmes recurrents"
-      }, {
-        "type": "divider"
       }, {
         "type": "page",
         "slug": "manual-installation",
