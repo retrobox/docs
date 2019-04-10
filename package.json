@@ -4,15 +4,17 @@
   "description": "The raw documentation of the retrobox project, markdown-formatted.",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "components": "node components_explorer/generateComponents.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/retrobox/docs.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Thingmill <contact@thingmill.fr>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/retrobox/docs/issues"
   },
