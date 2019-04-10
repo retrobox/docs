@@ -1,0 +1,72 @@
+Ecran 3,2 pouces
+1
+Joystick avec le capuchon
+1
+DD06CVSA Charger Circuit (Le truc vert pour la gestion de la batterie)
+1
+Mini HDMI vers HDMI + USB OTG
+1
+Boutons 6x6x12mm
+3
+Jack 3,5mm
+1
+Bouton On/Off SK12D07
+1
+MCP23017 GPIO
+1
+Resistance de 10K
+4
+LM339 Comparateur
+1
+Potentiometre 10k
+1
+Batterie de 3,7v 3000mAh
+1
+Condensateur de 0,01µf
+2
+Condensateur de 10µf
+2
+Resistance de 270 Ohm
+2
+Resistance de 150 Ohm
+2
+Carte SD Sandisk 16go
+1
+PAM8403 Amplificateur (3W)
+1
+Prise micro USB
+1
+Dissipateur thermique
+1
+USB Female Type A (Le plus gros USB)
+1
+Led 3mm (Verte de préference)
+1
+Enceinte 8 Ohm 1W
+1
+12x12 Boutons
+4
+Boutons angles droits 12x12
+2
+Capuchons pour bouton 6x6
+3
+Entretoises en nylon
+8
+Chargeur 5V micro USB
+1
+RetroBox PCB
+1
+Plexiglass
+2
+Une boîte, c'est plus pratique
+1
+Raspberry Pi 0 W
+1
+Deux petits support plaqué OR
+1
+Un bout de scotch double faces de 3 cm
+1
+Trois bouts de scotch double faces de 5 cm
+1
+Flyers
+1
