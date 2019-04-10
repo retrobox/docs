@@ -1,145 +1,182 @@
-[{
+[
+  {
     "name": "Ecran 3,2 pouces",
     "quantity": 1,
     "label": ""
-}, {
+  },
+  {
     "name": "Joystick avec le capuchon",
     "quantity": 1,
     "label": ""
-}, {
+  },
+  {
     "name": "DD06CVSA Charger Circuit (Le truc vert pour la gestion de la batterie)",
     "quantity": 1,
     "label": ""
-}, {
+  },
+  {
     "name": "Mini HDMI vers HDMI + USB OTG",
     "quantity": 1,
     "label": ""
-}, {
+  },
+  {
     "name": "Boutons 6x6x12mm",
     "quantity": 3,
     "label": ""
-}, {
+  },
+  {
     "name": "Jack 3,5mm",
     "quantity": 1,
     "label": ""
-}, {
+  },
+  {
     "name": "Bouton On/Off SK12D07",
     "quantity": 1,
     "label": ""
-}, {
+  },
+  {
     "name": "MCP23017 GPIO",
     "quantity": 1,
     "label": ""
-}, {
+  },
+  {
     "name": "Resistance de 10K",
     "quantity": 4,
     "label": ""
-}, {
+  },
+  {
     "name": "LM339 Comparateur",
     "quantity": 1,
     "label": ""
-}, {
+  },
+  {
     "name": "Potentiometre 10k",
     "quantity": 1,
     "label": ""
-}, {
+  },
+  {
     "name": "Batterie de 3,7v 3000mAh",
     "quantity": 1,
     "label": ""
-}, {
+  },
+  {
     "name": "Condensateur de 0,01µf",
     "quantity": 2,
     "label": ""
-}, {
+  },
+  {
     "name": "Condensateur de 10µf",
     "quantity": 2,
     "label": ""
-}, {
+  },
+  {
     "name": "Resistance de 270 Ohm",
     "quantity": 2,
     "label": ""
-}, {
+  },
+  {
     "name": "Resistance de 150 Ohm",
     "quantity": 2,
     "label": ""
-}, {
+  },
+  {
     "name": "Carte SD Sandisk 16go",
     "quantity": 1,
     "label": ""
-}, {
+  },
+  {
     "name": "PAM8403 Amplificateur (3W)",
     "quantity": 1,
     "label": ""
-}, {
+  },
+  {
     "name": "Prise micro USB",
     "quantity": 1,
     "label": ""
-}, {
+  },
+  {
     "name": "Dissipateur thermique",
     "quantity": 1,
     "label": ""
-}, {
+  },
+  {
     "name": "USB Female Type A (Le plus gros USB)",
     "quantity": 1,
     "label": ""
-}, {
+  },
+  {
     "name": "Led 3mm (Verte de préference)",
     "quantity": 1,
     "label": ""
-}, {
+  },
+  {
     "name": "Enceinte 8 Ohm 1W",
     "quantity": 1,
     "label": ""
-}, {
+  },
+  {
     "name": "12x12 Boutons",
     "quantity": 4,
     "label": ""
-}, {
+  },
+  {
     "name": "Boutons angles droits 12x12",
     "quantity": 2,
     "label": ""
-}, {
+  },
+  {
     "name": "Capuchons pour bouton 6x6",
     "quantity": 3,
     "label": ""
-}, {
+  },
+  {
     "name": "Entretoises en nylon",
     "quantity": 8,
     "label": ""
-}, {
+  },
+  {
     "name": "Chargeur 5V micro USB",
     "quantity": 1,
     "label": ""
-}, {
+  },
+  {
     "name": "RetroBox PCB",
     "quantity": 1,
     "label": ""
-}, {
+  },
+  {
     "name": "Plexiglass",
     "quantity": 2,
     "label": ""
-}, {
+  },
+  {
     "name": "Une boîte, c'est plus pratique",
     "quantity": 1,
     "label": ""
-}, {
+  },
+  {
     "name": "Raspberry Pi 0 W",
     "quantity": 1,
     "label": ""
-}, {
+  },
+  {
     "name": "Deux petits support plaqué OR",
     "quantity": 1,
     "label": ""
-}, {
+  },
+  {
     "name": "Un bout de scotch double faces de 3 cm",
     "quantity": 1,
     "label": ""
-}, {
+  },
+  {
     "name": "Trois bouts de scotch double faces de 5 cm",
     "quantity": 1,
     "label": ""
-}, {
+  },
+  {
     "name": "Flyers",
     "quantity": 1,
     "label": ""
-}]
+  }
+]

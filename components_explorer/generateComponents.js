@@ -1,6 +1,7 @@
 const fs = require('fs')
+const path = require('path')
 
-let data = fs.readFileSync('row.txt').toString()
+let data = fs.readFileSync(__dirname + '/row.txt').toString()
 let lines = data.split('\n')
 lines = lines.map((line) => {
     return line.replace('\r', '')
@@ -24,13 +25,13 @@ lines.forEach(line => {
     odd = !odd
 })
 
+let json = JSON.stringify(components, null, 2) // generate a pretty json file
 
-let json = JSON.stringify(components)
-
-fs.writeFile("output.json", json, function (err) {
+let jsonPath = path.resolve(__dirname + "/../components.json")
+fs.writeFile(jsonPath, json, function (err) {
     if (err) {
         return console.log(err);
     }
 
-    console.log("The file was saved!");
+    console.log("The file was saved!", jsonPath);
 });
