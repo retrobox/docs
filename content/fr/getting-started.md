@@ -375,6 +375,7 @@ Flyers
   <p>Si tout est ok, parfait, vous pouvez commencer l'assemblage !</p>
 </div>
 
+
 ## Description complète des composants
 
 <h3 class="dividing">RetroBox's PCB</h3>
@@ -550,7 +551,7 @@ C'est un petit amplificateur de classe D de 3W, cela permet d'avoir son puissant
 <div>
 Le Raspberry Pi est le cœur de la console, il gère tout, avec ces 1ghz de processeur et 512mb de ram, on peut donc jouer avec RetroPie
 </div>
-<img src="https://static.retrobox.tech/img/composants/raspberry.png">
+<img src="https://static.retrobox.tech/img/composants/raspberry.jpg">
 </div>
 
 <h3 class="dividing">Résistances</h3>
@@ -640,7 +641,7 @@ Les entretoises permettent de séparer le plexiglass de la PCB, ce qui protège 
 <div>
 Cette petit enceinte de 8 ohm et 1 W, à une puissance équivalente à une Gameboy Advance !
 </div>
-<img src="https://static.retrobox.tech/img/composants/enceinte.png">
+<img src="https://static.retrobox.tech/img/composants/enceinte.jpg">
 </div>
 
 <h3 class="dividing">Port USB type A</h3>
