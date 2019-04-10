@@ -25,7 +25,7 @@ Voici donc le schéma de votre console, si vous ne comprenez pas grand chose, pa
 
 Vous trouverez aussi ce diagramme utile :
 
-![](https://static.retrobox.tech/img/pcc
+![](https://static.retrobox.tech/img/pcb/schematics.png)
 
 # Liste des composants
 
