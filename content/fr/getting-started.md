@@ -1,3 +1,4 @@
+
 ## Achetez une RetroBox
 
 Pour commander une RetroBox avec quelques accessoires, dirigez-vous vers la boutique [RetroBox Shop](https://retrobox.tech/shop).
@@ -8,23 +9,23 @@ Temps estimé au montage **5h ~ 5h30**
 
 ## Première étape: Ouverture de la boîte et vérification
 
-Bienvenue dans le monde de Retrobox !
+Bienvenue dans le monde de **Retrobox** !
 
-Une fois que vous avez reçu votre colis, il est possible que nous avons oublié un composant, (nous sommes humains, mais je vous rassure cela n'arrive pratiquement jamais) si c'est le cas, contactez nous, nous vous réexpidrons le composant manquant gratuitement, contactez nous : support@retrobox.tech)
+Une fois que vous avez reçu votre colis, il est possible que nous avons oublié un composant, (nous sommes humains, mais je vous rassure cela n'arrive pratiquement jamais) si c'est le cas, contactez nous, nous vous réexpidrons le composant manquant gratuitement, contactez nous : [mail](mailto:support@retrobox.tech)
 
 ![](https://static.retrobox.tech/img/box.jpg)
 
-![](https://makerbuino.com/wp-content/uploads/2017/08/DSC05243_800x533.png)
+![](https://static.retrobox.tech/img/getting-started/RetroPie/all-componants.jpg)
 
 # Quelques images
 
 Voici donc le schéma de votre console, si vous ne comprenez pas grand chose, pas d'inquiétude vous allez tout apprendre en montant votre console !
 
-![](https://static.retrobox.tech/img/pcb/schematics.png)
+![](https://static.retrobox.tech/img/getting-started/RetroPie/schema.jpg)
 
 Vous trouverez aussi ce diagramme utile :
 
-![](https://makerbuino.com/wp-content/uploads/2017/04/diagram4-01_1123x800-e1501491985246.png)
+![](https://static.retrobox.tech/img/pcc
 
 # Liste des composants
 
@@ -396,7 +397,7 @@ Petits tips, vous voyez souvent les cartes électroniques en vert, et bien on pe
 <div>
 C'est simplement des boutons, comme pour votre lumière, ils servent pour Start, Select et Restart.
 </div>
-<img src="https://static.retrobox.tech/img/composants/boutons.png">
+<img src="https://static.retrobox.tech/img/composants/boutons.jpg">
 </div>
 
 <h3 class="dividing">Bouton 12x12mm</h3>
@@ -405,7 +406,7 @@ C'est simplement des boutons, comme pour votre lumière, ils servent pour Start,
 <div>
 C'est les mêmes boutons que les 6x6mm, sauf qu'ils sont plus gros ! Ils servent pour A, B, X, Y.
 </div>
-<img src="https://static.retrobox.tech/img/composants/12x12_Button.png">
+<img src="https://static.retrobox.tech/img/composants/bouton2.jpg">
 </div>
 
 <h3 class="dividing">Potentiomètre B103</h3>
@@ -414,7 +415,7 @@ C'est les mêmes boutons que les 6x6mm, sauf qu'ils sont plus gros ! Ils servent
 <div>
 C'est une résistance variable de 10k ohm pour le son, il dissipe le signal par la chaleur lorsque il n'est pas à fond.
 </div>
-<img src="https://static.retrobox.tech/img/composants/B103.png">
+<img src="https://static.retrobox.tech/img/composants/potentiometre.jpg">
 </div>
 
 <h3 class="dividing">Mini HDMI vers HDMI</h3>
@@ -432,7 +433,7 @@ Cela permet de joeur sur grand écrans ! Comme la convention habituel des ports 
 <div>
 Eh oui ça chauffe dans le raspberry Pi ! L'overclock du processeur pour jouer aux jeux plus fluidement, oblige un dissipateur, sinon le processeur partirait en fumer !
 </div>
-<img src="https://static.retrobox.tech/img/composants/HEATSINK.png">
+<img src="https://static.retrobox.tech/img/composants/heatsink.jpg">
 </div>
 
 <h3 class="dividing">Batterie</h3>
@@ -450,7 +451,7 @@ Pour avoir la meilleure autonomie (~6 h-7 h), nous vous avons concocté une batt
 <div>
 Cette prise jack de 3.5mm laisse place à une sortie casque lorsque vous le branché, le son de l'enceinte se coupe automatiquement ! Faites attention à vos oreilles, n'écoutez pas trop fort, le son est trop fort sur le casque.
 </div>
-<img src="https://static.retrobox.tech/img/composants/JACK.png">
+<img src="https://static.retrobox.tech/img/composants/jack.jpg">
 </div>
 
 <h3 class="dividing">Joystick</h3>
@@ -477,7 +478,7 @@ Elle indique lorsque la console est en marche ou pas.
 <div>
 La puce LM339 transforme le signal analog du joystick vers un signal digital pour le Raspberry Pi.
 </div>
-<img src="https://static.retrobox.tech/img/composants/LM339.png">
+<img src="https://static.retrobox.tech/img/composants/lm339n.jpg">
 </div>
 
 <h3 class="dividing">Chargeur 5V</h3>
@@ -486,7 +487,7 @@ La puce LM339 transforme le signal analog du joystick vers un signal digital pou
 <div>
 Ce chargeur micro-USB 5v, permet de charger la console a vitesse grand V ! Fonctionne aussi avec les téléphones !
 </div>
-<img src="https://static.retrobox.tech/img/composants/5VCHARGER.png">
+<img src="https://static.retrobox.tech/img/composants/chargeur.jpg">
 </div>
 
 <h3 class="dividing">Condensateur 10nF</h3>
@@ -513,7 +514,7 @@ Idem que le 10nF !
 <div>
 C'est la même prise que vos téléphones, elle permet de charger la console.
 </div>
-<img src="https://static.retrobox.tech/img/composants/MICROUSB.png">
+<img src="https://static.retrobox.tech/img/composants/miniusb.jpg">
 </div>
 
 <h3 class="dividing">Circuit protecteur et chargeur 5V</h3>
@@ -531,7 +532,7 @@ Cette petite plaque gère toute la partie puissance de la console, elle indique 
 <div>
 La puce MCP23017 permet de rajouter des sorties sur le Raspberry Pi, il en rajoute 16 !
 </div>
-<img src="https://static.retrobox.tech/img/composants/MCP23017.png">
+<img src="https://static.retrobox.tech/img/composants/mcp23017.jpg">
 </div>
 
 <h3 class="dividing">L'amplificateur PAM8403</h3>
@@ -540,7 +541,7 @@ La puce MCP23017 permet de rajouter des sorties sur le Raspberry Pi, il en rajou
 <div>
 C'est un petit amplificateur de classe D de 3W, cela permet d'avoir son puissant pour l'enceinte, ou le casque.
 </div>
-<img src="https://static.retrobox.tech/img/composants/PAM8403.png">
+<img src="https://static.retrobox.tech/img/composants/ampli.jpg">
 </div>
 
 <h3 class="dividing">Le micro-ordinateur Raspberry Pi Zero W</h3>
@@ -612,7 +613,7 @@ Ce petit écran de 3.2 pouces fonctionne avec un protocole nommé SPI, ce qui no
 <div>
 La carte SD pré-integrée de 8 GB suffit pour mettre beaucoup de jeux, assez du moins pour ne pas avoir le temps de tous les essayer....
 </div>
-<img src="https://static.retrobox.tech/img/composants/SDCARD.png">
+<img src="https://static.retrobox.tech/img/composants/cartesd.jpg">
 </div>
 
 <h3 class="dividing">Bouton ON/OFF</h3>
@@ -621,7 +622,7 @@ La carte SD pré-integrée de 8 GB suffit pour mettre beaucoup de jeux, assez du
 <div>
 Et c'est le dernier boutton, le principal, il gère l'alimentation de la console, ON ou OFF, rien de plus simple !
 </div>
-<img src="https://static.retrobox.tech/img/composants/onoff.png">
+<img src="https://static.retrobox.tech/img/composants/onoff.jpg">
 </div>
 
 <h3 class="dividing">Entretoises</h3>
