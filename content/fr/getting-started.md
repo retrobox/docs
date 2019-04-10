@@ -1,5 +1,3 @@
-
-
 ## Achetez une RetroBox
 
 Pour commander une RetroBox avec quelques accessoires, dirigez-vous vers la boutique [RetroBox Shop](https://retrobox.tech/shop).
@@ -382,12 +380,14 @@ Flyers
 
 <div class="docs-section">
 <div>
-La PCB est une plaque qui a elle seule supporte tous les composants !
+La PCB est une plaque qui a elle seule supporte tous les composants !  
 
 C'est juste une plaque avec des fils en cuivres pré-intégrés.  
-Cela permet d'avoir un beau rendu et de qualité. Petit tips, vous voyer souvent les carte éléctroniques en verte, et bien on peut mettre les couleurs sue l'on veut ! C'est juste pour protèger le cuivre...
+Cela permet d'avoir un beau rendu de qualité.
+Petits tips, vous voyez souvent les cartes électroniques en vert, et bien on peut mettre les couleurs que l'on veut ! C'est juste pour protéger le cuivre....
 </div>
 <img src="https://static.retrobox.tech/img/composants/pcb.png">
+<img src="https://static.retrobox.tech/img/getting-started/RetroPie/pcblayer.png">
 </div>
 
 <h3 class="dividing">Bouton 6x6mm</h3>
@@ -430,7 +430,7 @@ Cela permet de joeur sur grand écrans ! Comme la convention habituel des ports 
 
 <div class="docs-section">
 <div>
-Et oui sa chauffe dans le raspberry pi ! L'overclock du processeur pour jouer au jeux plus fluidement, oblige un dissipateur, sinon le processeur partirai en fumé !
+Eh oui ça chauffe dans le raspberry Pi ! L'overclock du processeur pour jouer aux jeux plus fluidement, oblige un dissipateur, sinon le processeur partirait en fumer !
 </div>
 <img src="https://static.retrobox.tech/img/composants/HEATSINK.png">
 </div>
@@ -439,16 +439,16 @@ Et oui sa chauffe dans le raspberry pi ! L'overclock du processeur pour jouer au
 
 <div class="docs-section">
 <div>
-Pour avoir la meilleur autonomie (~6h-7h), nous vous avons concocté une batterie de 3000mAh ! Vous ne saurez plus vous arretez...
+Pour avoir la meilleure autonomie (~6 h-7 h), nous vous avons concocté une batterie de 3000 Mah ! Vous ne saurez plus vous arrêter....
 </div>
 <img src="https://static.retrobox.tech/img/composants/BATTERY.png">
 </div>
 
-<h3 class="dividing">Potentiomètre B103</h3>
+<h3 class="dividing">Prise jack 3.5mm</h3>
 
 <div class="docs-section">
 <div>
-Cette prise jack de 3.5mm laisse place a une sortie casque, lorsque vous le branché le son de l'enceinte se coupe automatiquement ! Faites attention a vos oreilles, n'écoutez pas trop fort, le son est trop fort sur le casque.
+Cette prise jack de 3.5mm laisse place à une sortie casque lorsque vous le branché, le son de l'enceinte se coupe automatiquement ! Faites attention à vos oreilles, n'écoutez pas trop fort, le son est trop fort sur le casque.
 </div>
 <img src="https://static.retrobox.tech/img/composants/JACK.png">
 </div>
@@ -529,7 +529,7 @@ Cette petite plaque gère toute la partie puissance de la console, elle indique 
 
 <div class="docs-section">
 <div>
-La puce MCP23017 permet de rajouter des sorties sur le raspberry pi, il en rajoute 16 !
+La puce MCP23017 permet de rajouter des sorties sur le Raspberry Pi, il en rajoute 16 !
 </div>
 <img src="https://static.retrobox.tech/img/composants/MCP23017.png">
 </div>
@@ -538,7 +538,7 @@ La puce MCP23017 permet de rajouter des sorties sur le raspberry pi, il en rajou
 
 <div class="docs-section">
 <div>
-C'est un petit amplificateur de classe D de 3W, cela permet un son puissant pour les enceinte, ou le casque.
+C'est un petit amplificateur de classe D de 3W, cela permet d'avoir son puissant pour l'enceinte, ou le casque.
 </div>
 <img src="https://static.retrobox.tech/img/composants/PAM8403.png">
 </div>
@@ -547,7 +547,7 @@ C'est un petit amplificateur de classe D de 3W, cela permet un son puissant pour
 
 <div class="docs-section">
 <div>
-le Raspberry Pi est le coeur de la console, il gère tous, avec ces 1ghz de processeur et 512mb de ram, on peut donc jouer avec RetroPie
+Le Raspberry Pi est le cœur de la console, il gère tout, avec ces 1ghz de processeur et 512mb de ram, on peut donc jouer avec RetroPie
 </div>
 <img src="https://static.retrobox.tech/img/composants/raspberry.png">
 </div>
@@ -556,14 +556,14 @@ le Raspberry Pi est le coeur de la console, il gère tous, avec ces 1ghz de proc
 
 <div class="docs-section">
 <div>
-Une résistance en éléctronique, est utilisé pour réguler l'intensité d'un composant (Comme une led), elle se mesure en ohms, signe de l'omega grec. Vous pouvez déterminer la résistance du composant avec un tableau de valeurs.
+Une résistance en électronique, est utilisé pour réguler l'intensité d'un composant (Comme une LED), elle se mesure en ohms, signe de l'oméga grec. Vous pouvez déterminer la résistance du composant avec un tableau de valeurs.
 <br />
 
 **Il y a trois type de résistances utilisées dans la RetroBox :** <br />
 <br />
 
 **Plusieurs résistances de 10k ohms** <br />
-Celle ci servent de pull-up pour le joystick, 5V = 1 ; 0V= 0/. La raspberry compare le courant du pin.<br />
+Celle ci servent de pull-up pour le joystick, 5V = 1 ; 0V= 0/. La Raspberry compare le courant du pin.<br />
 
 **Le code couleur** : Marron, Noir, Orange, or <br />
 <br />
@@ -574,7 +574,7 @@ Celle-ci sert au filtre passe-bas, pour avoir un son de meilleur qualité.<br />
 <br />
 
 **Plusieurs résistances de 270 ohms** <br />
-Idem de celle de 150 ohms, deux types de résistances est utilisé.<br />
+Idem de celle de 150 ohms, deux types de résistances sont utilisées.<br />
 **Le code couleur** : Rouge, Violet, Marron, Or <br />
 <br />
 
@@ -585,14 +585,14 @@ Idem de celle de 150 ohms, deux types de résistances est utilisé.<br />
 
 <div class="docs-alert info">
   <i class="icon fas fa-angle-double-up"></i>
-  <p>Petit tips : Pour lire les valeurs d'une resistance, il vous suffit de regarder sur le tableau les couleurs ou d'utiliser des outils en ligne comme celui ci : <a href="https://www.digikey.fr/fr/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" style="color:white">digikey.fr</a> </p>
+  <p>Petit tips : Pour lire les valeurs d'une résistance, il vous suffit de regarder sur le tableau les couleurs ou d'utiliser des outils en ligne comme celui-ci : <a href="https://www.digikey.fr/fr/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band" style="color:white">digikey.fr</a> </p>
 </div>
 
 <h3 class="dividing">Bouton 12x12mm à angle droit</h3>
 
 <div class="docs-section">
 <div>
-Et encore des boutons, cela sont pour les actions L et R de la console.
+Et encore des boutons, cela sont pour les actions L et R de la console. Un peu similaire à des gâchettes.
 </div>
 <img src="https://static.retrobox.tech/img/composants/gachette.png">
 </div>
@@ -601,7 +601,7 @@ Et encore des boutons, cela sont pour les actions L et R de la console.
 
 <div class="docs-section">
 <div>
-Ce petit écran de 3.2 pouces fonctionne avec un protocole nommé SPI, ce qui nous limite sur la taille de l'écran, pour avoir du 60 FPS, le 3.5 pouces tournaient sur du 20 FPS... Injouable...
+Ce petit écran de 3.2 pouces fonctionne avec un protocole nommé SPI, ce qui nous limite sur la taille de l'écran, pour avoir des 30 FPS, le 3.5 pouces était cadencé sur du 15 FPS... Injouable....
 </div>
 <img src="https://static.retrobox.tech/img/composants/lcd.png">
 </div>
@@ -610,7 +610,7 @@ Ce petit écran de 3.2 pouces fonctionne avec un protocole nommé SPI, ce qui no
 
 <div class="docs-section">
 <div>
-La carte SD pré-integrée de 8GB suffit pour mettre beaucoup de jeux, assez du moins pour ne pas avoir le temps de tous les essayer...
+La carte SD pré-integrée de 8 GB suffit pour mettre beaucoup de jeux, assez du moins pour ne pas avoir le temps de tous les essayer....
 </div>
 <img src="https://static.retrobox.tech/img/composants/SDCARD.png">
 </div>
@@ -646,12 +646,12 @@ Cette petit enceinte de 8 ohm et 1 W, à une puissance équivalente à une Gameb
 
 <div class="docs-section">
 <div>
-Vous voulez jouer entre amis ? Branchez-y vos manettes dessus ! Ou même des clès USB, Ou encore plus fou, vos téléphones pour les recharger !
+Vous voulez jouer entre amis ? Branchez-y vos manettes dessus ! Ou même des clés USB, Ou encore plus fou, vos téléphones pour les recharger !
 </div>
 <img src="https://static.retrobox.tech/img/composants/usb.png">
 </div>
 
 <div class="docs-alert info">
   <i class="icon fas fas fa-forward"></i>
-  <p>Après avoir faite cette petite présentation des composants de la console, vous allez pouvoir commencer l'assemblage en cliquant sur suivant !</p>
+  <p>Aaprès avoir faite cette petite présentation des composants de la console, vous allez pouvoir commencer l'assemblage en cliquant sur suivant !</p>
 </div>
