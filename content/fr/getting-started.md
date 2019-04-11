@@ -1,4 +1,3 @@
-
 ## Achetez une RetroBox
 
 Pour commander une RetroBox avec quelques accessoires, dirigez-vous vers la boutique [RetroBox Shop](https://retrobox.tech/shop).
@@ -515,7 +514,7 @@ Idem que le 10nF !
 <div>
 C'est la même prise que vos téléphones, elle permet de charger la console.
 </div>
-<img src="https://static.retrobox.tech/img/composants/miniusb.jpg">
+<img src="https://static.retrobox.tech/img/composants/microusb.jpg">
 </div>
 
 <h3 class="dividing">Circuit protecteur et chargeur 5V</h3>
@@ -632,7 +631,7 @@ Et c'est le dernier boutton, le principal, il gère l'alimentation de la console
 <div>
 Les entretoises permettent de séparer le plexiglass de la PCB, ce qui protège la console.
 </div>
-<img src="https://static.retrobox.tech/img/composants/SPACER.png">
+<img src="https://static.retrobox.tech/img/composants/entretoises.jpg">
 </div>
 
 <h3 class="dividing">Enceinte de 1W</h3>
@@ -651,6 +650,16 @@ Cette petit enceinte de 8 ohm et 1 W, à une puissance équivalente à une Gameb
 Vous voulez jouer entre amis ? Branchez-y vos manettes dessus ! Ou même des clés USB, Ou encore plus fou, vos téléphones pour les recharger !
 </div>
 <img src="https://static.retrobox.tech/img/composants/usb.jpg">
+</div>
+
+<h3 class="dividing">Support pour la raspberry pi</h3>
+
+<div class="docs-section">
+<div>
+Ces petits supports contiennent un ressort qui assure la connexion entre la carte électronique et la Raspberry. Tout ça pour alimenter la Raspberry.
+
+</div>
+<img src="https://static.retrobox.tech/img/composants/pinheaderspring.jpg">
 </div>
 
 <div class="docs-alert info">
