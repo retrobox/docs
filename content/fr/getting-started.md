@@ -14,7 +14,7 @@ Une fois que vous avez reçu votre colis, il est possible que nous avons oublié
 
 ![](https://static.retrobox.tech/img/box.jpg)
 
-![](https://static.retrobox.tech/img/getting-started/RetroPie/all-componants.jpg)
+![](https://static.retrobox.tech/img/getting-started/RetroPie/all-composants.jpg)
 
 # Quelques images
 
