@@ -72,8 +72,6 @@
         "slug": "troubleshouting",
         "name": "Troubleshouting"
       }, {
-        "type": "divider"
-      }, {
         "slug": "manual-installation",
         "name": "Manual installation"
       }, {
