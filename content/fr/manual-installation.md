@@ -103,6 +103,9 @@ sudo nano /boot/config.txt```
 #### Ajouter :
 
 ```bash
+# CONFIG RETROBOX
+
+# Enable audio (loads snd_bcm2835)
 dtparam=audio=on
 gpu_mem_256=128
 gpu_mem_512=256
@@ -123,9 +126,13 @@ disable_audio_dither=1
 
 dtoverlay=waveshare32b:rotate=270,speed=35000000,fps=60
 
-arm_freq=1050
-gpu_freq=310
+disable_splash=1
+avoid_warnings=1
+
+arm_freq=1010
+gpu_freq=300
 #lcd_on
+
 ```
 
 <div class="docs-alert info">
@@ -233,19 +240,19 @@ sudo git clone --recursive --depth 1 https://github.com/retrobox/console-modules
 sudo \cp -r /home/pi/console-modules/inputsDriver/etc/modules /etc/modules```
 
 3. ```bash
-sudo \cp -r /home/pi/console-modules/inputsDriver/etc/modprobe.d/mk_arcade_joystick_rpi.conf etc/modprobe.d/```
+sudo \cp -r /home/pi/console-modules/inputsDriver/etc/modprobe.d/mk_arcade_joystick_rpi.conf /etc/modprobe.d/```
 
 4. ```bash
-sudo \cp -r /home/pi/console-modules/inputsDriver/etc/modprobe.d/mk_arcade_joystick.conf etc/modprobe.d/```
+sudo \cp -r /home/pi/console-modules/inputsDriver/etc/modprobe.d/mk_arcade_joystick.conf /etc/modprobe.d/```
 
 5. ```bash
-sudo \cp -r /home/pi/console-modules/inputsDriver/opt/retropie/configs/all/emulationstation/es_input.cfg opt/retropie/configs/all/emulationstation/```
+sudo \cp -r /home/pi/console-modules/inputsDriver/opt/retropie/configs/all/emulationstation/es_input.cfg /opt/retropie/configs/all/emulationstation/```
 
 6. ```bash
-sudo \cp -r -a /home/pi/console-modules/inputsDriver/opt/retropie/configs/all/retroarch/autoconfig/. opt/retropie/configs/all/retroarch/autoconfig/```
+sudo \cp -r -a /home/pi/console-modules/inputsDriver/opt/retropie/configs/all/retroarch/autoconfig/. /opt/retropie/configs/all/retroarch/autoconfig/```
 
 7. ```bash
-sudo \cp -r -a /home/pi/console-modules/inputsDriver/opt/retropie/configs/all/retroarch-joypads/. opt/retropie/configs/all/retroarch-joypads/```
+sudo \cp -r -a /home/pi/console-modules/inputsDriver/opt/retropie/configs/all/retroarch-joypads/. /opt/retropie/configs/all/retroarch-joypads/```
 
 <br>
 
