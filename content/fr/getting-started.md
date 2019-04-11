@@ -581,7 +581,7 @@ Idem de celle de 150 ohms, deux types de résistances sont utilisées.<br />
 
 </div>
 <img src="https://www.positron-libre.com/cours/electronique/resistances/images/code-couleur-resistance.png">
-<img src="https://static.retrobox.tech/img/composants/ALLRESISTORS.png">
+<img src="https://static.retrobox.tech/img/composants/ressitance2.jpg">
 </div>
 
 <div class="docs-alert info">
