@@ -30,6 +30,7 @@ Vous trouverez aussi ce diagramme utile :
 
 Voici ce que doit contenir votre kit RetroBox :
 
+~[COMPONENT_EXPLORER]~
 
 <div class="list list-73">
 <div class="list-head">

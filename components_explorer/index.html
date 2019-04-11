@@ -65,7 +65,10 @@
             <form id="search">
                 Search <input name="query" v-model="searchQuery">
             </form>
-            <grid-table :data="components" :columns="columns" :filter-key="searchQuery">
+            <grid-table 
+                :data="components"
+                :columns="columns"
+                :filter-key="searchQuery">
             </grid-table>
         </div>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.10/vue.min.js"></script>
