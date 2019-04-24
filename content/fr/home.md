@@ -11,7 +11,8 @@ La RetroBox est une console portative, open source qui tourne sur RetroPie, et v
 
 Selon nos estimations un enfant de 13 ans avec un peu d'aide d'un adulte peut être capable de comprendre, de monter soit même sa console. Mais en moyenne cela reste **13 ans et plus**.
 
-Temps de construction estimé : entre **5 heures et 5h30** Le temps de construction varie entre les personnes
+Temps de construction estimé : entre **5 heures et 5h30** 
+Le temps de construction varie entre les personnes
 
 </div>
 <img src="https://static.retrobox.tech/img/about/RETROBOX1.png">
@@ -24,33 +25,31 @@ Temps de construction estimé : entre **5 heures et 5h30** Le temps de construct
 
 ### Si vous avez déjà ces compétences pour monter une RetroBox, c'est plus que parfait !
 
--   Quelques bases en soudure (Si vous averz déjà fait quelques systèmes éléctroniques)
--   Quelques connaissances pour reconnaitre la base des composants
+-   Quelques bases en soudure (Si vous avez déjà fait quelques systèmes éléctroniques)
+-   Quelques connaissances pour reconnaitre la base des composants (résistances, condensateurs...)
 
 <br>
-Si vous n'avez pas ses compétences, pas de problèmes ! Vous apprendrez déjà pas mal de choses ici, mais le si vous les avez vous irez bien plus vite !
-
-
+Si vous n'avez pas ses compétences, pas de problèmes ! Vous apprendrez déjà pas mal de choses ici, mais si vous les avez vous irez bien plus vite !
 
 ### Qu'apprenez-vous avec Retrobox ?
 
-RetroBox existe pour les personnes ayant envie d'apprendre les bases d'électronique, de leur donner envie de faire des projets, mais avec RetroBox vos apprenez essentiellement :
+RetroBox existe pour les personnes ayant envie d'apprendre les bases d'électronique, de leur donner envie de faire des projets, mais avec RetroBox vous apprendrez :
 
 - Comment souder
 - La base de l'électronique et les fonctions des composants
 - Des notions Linux
 - La création de vos propres jeux
-- L'existence de certains jeux... inconnue au grand public
+- L'existence de certains jeux... inconnus au grand public
 
 </div>
-<img src="https://makerbuino.com/wp-content/uploads/2016/11/PCB-front.png">
+<img src="https://static.retrobox.tech/img/pcb/pcb.png">
 </div>
 <br>
 
 ### Fonctionnalitées
 
  - Possibilité d'installer NOOBS ou Raspbian, avec le support tactile.
- - Émulez jusqu'à 55 consoles avec RetroPie
+ - Émuler jusqu'à 55 consoles avec RetroPie
  - Une grande autonomie et chargement rapide
  - Ampli 3W, pour avoir le meilleur son !
  - Portative, et open-source !

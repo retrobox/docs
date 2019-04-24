@@ -1,5 +1,7 @@
 ## Assemblage
 
+![image alt text](https://static.retrobox.tech/img/assemblage/soldering.jpg)
+
 Quelques tips avant de souder :
 Nous vous conseillons plusieurs vidéos avant de vous lancer pour avoir les bases, seulement dans le cas ou vous n'avez jamais touché à un fer à souder.
 
@@ -9,9 +11,9 @@ Nous vous conseillons plusieurs vidéos avant de vous lancer pour avoir les base
 <br>
 Voici une image sur la façon de souder :
 
-![image alt text](https://static.retrobox.tech/img/solderingtips.jpg)
+![image alt text](https://static.retrobox.tech/img/assemblage/solderingtips_fr.png)
 
-<h3 class="dividing-right">**Etape une**</h3>
+<h3 class="dividing-right"> **Etape une** </h3>
 
 <div class="docs-section">
 <div>
