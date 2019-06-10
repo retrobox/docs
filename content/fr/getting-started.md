@@ -20,8 +20,6 @@ Une fois que vous avez reçu votre colis, il est possible que nous avons oublié
 
 Voici donc le schéma de votre console, si vous ne comprenez pas grand chose, pas d'inquiétude vous allez tout apprendre en montant votre console !
 
-![](https://static.retrobox.tech/img/getting-started/RetroPie/schema.jpg)
-
 Vous trouverez aussi ce diagramme utile :
 
 ![](https://static.retrobox.tech/img/pcb/schematics.png)
